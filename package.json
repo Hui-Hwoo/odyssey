@@ -1,7 +1,7 @@
 {
     "name": "my-app",
     "version": "0.1.0",
-    "homepage": "https://hui-hwoo.github.io/about",
+    "homepage": "https://hui-hwoo.github.io/hwoo/",
     "private": true,
     "dependencies": {
         "@notionhq/client": "^2.2.14",

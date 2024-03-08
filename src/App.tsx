@@ -22,36 +22,36 @@ const App = () => {
                     <nav>
                         <ul>
                             <li>
-                                <Link to="/">Home</Link>
+                                <Link to="/hwoo/">Home</Link>
                             </li>
                             <li>
-                                <Link to="/about">About</Link>
+                                <Link to="/hwoo/about">About</Link>
                             </li>
                             <li>
-                                <Link to="/projects">Projects</Link>
+                                <Link to="/hwoo/projects">Projects</Link>
                             </li>
                             <li>
-                                <Link to="/competitions">Competitions</Link>
+                                <Link to="/hwoo/competitions">Competitions</Link>
                             </li>
                             <li>
-                                <Link to="/interns">Interns</Link>
+                                <Link to="/hwoo/interns">Interns</Link>
                             </li>
                             <li>
-                                <Link to="/contact">Contact</Link>
+                                <Link to="/hwoo/contact">Contact</Link>
                             </li>
                         </ul>
                     </nav>
                     <Routes>
-                        <Route path="/" element={<HomePage />} />
-                        <Route path="/about" element={<AboutPage />} />
-                        <Route path="/projects" element={<ProjectsPage />} />
+                        <Route path="/hwoo/" element={<HomePage />} />
+                        <Route path="/hwoo/about" element={<AboutPage />} />
+                        <Route path="/hwoo/projects" element={<ProjectsPage />} />
                         <Route
-                            path="/competitions"
+                            path="/hwoo/competitions"
                             element={<CompetitionsPage />}
                         />
-                        <Route path="/interns" element={<InternsPage />} />
-                        <Route path="/contact" element={<ContactPage />} />
-                        <Route path="*" element={<Navigate to="/" replace />} />
+                        <Route path="/hwoo/interns" element={<InternsPage />} />
+                        <Route path="/hwoo/contact" element={<ContactPage />} />
+                        <Route path="*" element={<Navigate to="/hwoo" replace />} />
                     </Routes>
                 </div>
             </Router>
