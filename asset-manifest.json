@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/odyssey/static/css/main.cb24ed6d.css",
-    "main.js": "/odyssey/static/js/main.9a234898.js",
+    "main.js": "/odyssey/static/js/main.0e8c0340.js",
     "index.html": "/odyssey/index.html",
     "main.cb24ed6d.css.map": "/odyssey/static/css/main.cb24ed6d.css.map",
-    "main.9a234898.js.map": "/odyssey/static/js/main.9a234898.js.map"
+    "main.0e8c0340.js.map": "/odyssey/static/js/main.0e8c0340.js.map"
   },
   "entrypoints": [
     "static/css/main.cb24ed6d.css",
-    "static/js/main.9a234898.js"
+    "static/js/main.0e8c0340.js"
   ]
 }
