@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hwoo/static/css/main.cb24ed6d.css",
-    "main.js": "/hwoo/static/js/main.34086b13.js",
-    "index.html": "/hwoo/index.html",
-    "main.cb24ed6d.css.map": "/hwoo/static/css/main.cb24ed6d.css.map",
-    "main.34086b13.js.map": "/hwoo/static/js/main.34086b13.js.map"
+    "main.css": "/odyssey/static/css/main.cb24ed6d.css",
+    "main.js": "/odyssey/static/js/main.43c6a41c.js",
+    "index.html": "/odyssey/index.html",
+    "main.cb24ed6d.css.map": "/odyssey/static/css/main.cb24ed6d.css.map",
+    "main.43c6a41c.js.map": "/odyssey/static/js/main.43c6a41c.js.map"
   },
   "entrypoints": [
     "static/css/main.cb24ed6d.css",
-    "static/js/main.34086b13.js"
+    "static/js/main.43c6a41c.js"
   ]
 }
