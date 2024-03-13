@@ -17,41 +17,41 @@ import { ContactPage } from "./pages/Contact";
 const App = () => {
     return (
         <React.Fragment>
-            <Router>
+            <Router basename="/odyssey">
                 <div>
                     <nav>
                         <ul>
                             <li>
-                                <Link to="/hwoo/">Home</Link>
+                                <Link to="/">Home</Link>
                             </li>
                             <li>
-                                <Link to="/hwoo/about">About</Link>
+                                <Link to="/about">About</Link>
                             </li>
                             <li>
-                                <Link to="/hwoo/projects">Projects</Link>
+                                <Link to="/projects">Projects</Link>
                             </li>
                             <li>
-                                <Link to="/hwoo/competitions">Competitions</Link>
+                                <Link to="/competitions">Competitions</Link>
                             </li>
                             <li>
-                                <Link to="/hwoo/interns">Interns</Link>
+                                <Link to="/interns">Interns</Link>
                             </li>
                             <li>
-                                <Link to="/hwoo/contact">Contact</Link>
+                                <Link to="/contact">Contact</Link>
                             </li>
                         </ul>
                     </nav>
                     <Routes>
-                        <Route path="/hwoo/" element={<HomePage />} />
-                        <Route path="/hwoo/about" element={<AboutPage />} />
-                        <Route path="/hwoo/projects" element={<ProjectsPage />} />
+                        <Route path="/" element={<HomePage />} />
+                        <Route path="/about" element={<AboutPage />} />
+                        <Route path="/projects" element={<ProjectsPage />} />
                         <Route
-                            path="/hwoo/competitions"
+                            path="/competitions"
                             element={<CompetitionsPage />}
                         />
-                        <Route path="/hwoo/interns" element={<InternsPage />} />
-                        <Route path="/hwoo/contact" element={<ContactPage />} />
-                        <Route path="*" element={<Navigate to="/hwoo" replace />} />
+                        <Route path="/interns" element={<InternsPage />} />
+                        <Route path="/contact" element={<ContactPage />} />
+                        <Route path="*" element={<Navigate to="/" replace />} />
                     </Routes>
                 </div>
             </Router>
