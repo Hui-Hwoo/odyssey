@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,
     Routes,
     Route,
     Link,
@@ -17,7 +17,7 @@ import { ContactPage } from "./pages/Contact";
 const App = () => {
     return (
         <React.Fragment>
-            <Router basename="/odyssey">
+            <Router>
                 <div>
                     <nav>
                         <ul>
