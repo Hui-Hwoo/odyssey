@@ -22,5 +22,6 @@ Personal website of Hwoo.
 ### References
 
 -   [Template](https://alshedivat.github.io/al-folio/projects/)
--  [Routing](https://reactrouter.com/web/guides/quick-start)
+-   [Routing](https://reactrouter.com/web/guides/quick-start)
 -   [Dark mode](https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/#aa-using-server-side-scripts)
+-   [Icon Library](https://phosphoricons.com/)

@@ -13,6 +13,8 @@ import { ProjectsPage } from "./pages/Projects";
 import { CompetitionsPage } from "./pages/Competitions";
 import { InternsPage } from "./pages/Interns";
 import { ContactPage } from "./pages/Contact";
+import { ModeToggle } from "./components/ModeToggle";
+import "./variables.css";
 
 const App = () => {
     return (
@@ -55,6 +57,9 @@ const App = () => {
                     </Routes>
                 </div>
             </Router>
+            <div className="ModeToggle">
+                <ModeToggle />
+            </div>
         </React.Fragment>
     );
 };

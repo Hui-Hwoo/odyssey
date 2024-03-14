@@ -1,0 +1,92 @@
+.AvatarContainer {
+    background-color: "red";
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.AvatarImageContainer {
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    border: solid 4px var(--gray-color);
+    background-color: white;
+}
+
+.AvatarImageContainer .avatarImage {
+    transition: opacity 0.3s ease;
+}
+
+.avatarHoverImage {
+    display: none;
+    
+}
+
+.AvatarImageContainer:hover {
+    .avatarImage {
+        display: none;
+    }
+    .avatarHoverImage {
+        display: flex;
+    }
+}
+
+/* Disable hover on mobile */
+@media (max-width: 675px) {
+    .AvatarImageContainer.avatarHoverImage {
+        display: none;
+    }
+}
+
+.AvatarTitle {
+    font-size: 2rem;
+    font-weight: bolder;
+    color: var(--global-text-color);
+    margin: 0.5rem 0 0.5rem 0;
+}
+
+.AvatarIntro {
+    font-size: 1.2rem;
+    color: var(--global-text-color);
+    margin: 0 0 4px 0;
+}
+
+.AvatarLinks {
+    display: flex;
+    /* flex-direction: row; */
+}
+
+.AvatarLink {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding: 0 4px 0 4px;
+}
+
+.AvatarLink .AvatarLinkIcon {
+    border: solid 2px var(--gray-color);
+    border-radius: 50%;
+    padding: 4px;
+    background-color: var(--gray-color); /* Example background color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.AvatarGrayLayer {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-color: var(--dark-gray-color);
+    border-radius: 50%;
+    opacity: 0;
+}
+
+/* Disable hover on mobile */
+@media (min-width: 675px) {
+    .AvatarLink:hover .AvatarGrayLayer {
+        opacity: 0.4;
+    }
+}
