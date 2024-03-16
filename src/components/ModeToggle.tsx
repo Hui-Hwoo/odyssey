@@ -8,7 +8,7 @@ export const ModeToggle = () => {
     return (
         <button
             className={`theme-toggle ${
-                isDarkMode ? "theme-toggle--toggled" : ""
+                !isDarkMode ? "theme-toggle--toggled" : ""
             }`}
             type="button"
             title="Toggle theme"

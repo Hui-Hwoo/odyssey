@@ -1,4 +1,5 @@
 import "./Avatar.css";
+import { SocialLinkType } from "../types";
 import {
     LinkedIn,
     Github,
@@ -7,6 +8,9 @@ import {
     Instagram,
     YouTube,
     LinkIcon,
+    // Selfie,
+    MyAvatar,
+    MyLogo,
 } from "../assets";
 
 interface AvatarProps {
@@ -20,15 +24,6 @@ interface AvatarProps {
     twitter?: string;
     instagram?: string;
     youtube?: string;
-}
-
-enum SocialLinkType {
-    Mail = "mail",
-    GitHub = "github",
-    LinkedIn = "linkedIn",
-    Twitter = "twitter",
-    Instagram = "instagram",
-    YouTube = "youtube",
 }
 
 const SocialLink = (props: { url: string; type: SocialLinkType }) => {
@@ -127,14 +122,14 @@ export const Avatar = (props: AvatarProps) => {
         <div className="AvatarContainer">
             <div className="AvatarImageContainer">
                 <img
-                    src={url}
+                    src={url === "hwoo" ? MyAvatar : url}
                     alt={"avatar"}
                     width={100}
                     height={100}
                     className="avatarImage"
                 />
                 <img
-                    src={hoverUrl}
+                    src={hoverUrl === "hwoo" ? MyLogo : hoverUrl}
                     alt={"avatar-hover"}
                     width={100}
                     height={100}

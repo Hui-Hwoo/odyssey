@@ -1,25 +1,25 @@
 import React from "react";
 import { Avatar } from "../components/Avatar";
+import "./page.css";
 
 export const HomePage = () => {
     return (
         <React.Fragment>
-            <div>
+            <div className="HomePage">
+                <div className="separator"></div>
                 <Avatar
-                    url={
-                        "https://framerusercontent.com/images/dvrschHGP374SPK1HpDjWPcdFEk.png"
-                    }
-                    hoverUrl="https://css-tricks.com/wp-content/uploads/2018/10/01-container.svg"
-                    name="Hui Hu"
-                    intro="This is the home page for HashRouter"
+                    url="hwoo"
+                    hoverUrl="hwoo"
+                    name="Hui Hwoo"
+                    intro="Tech, Mathematic, Minimalist"
                     linkedIn="https://www.linkedin.com/in/hui-hwoo/"
                     github="https://github.com/Hui-Hwoo"
                     mail="hui.hwoo@gmail.com"
-                    // twitter="testlink"
-                    // instagram="testlink"
-                    // youtube="testlink"
+                    instagram="https://www.instagram.com/hui_hwoo/"
                 />
             </div>
         </React.Fragment>
     );
 };
+
+// https://raw.githubusercontent.com/Hui-Hwoo/odyssey/main/public/avatar-circle.png?token=GHSAT0AAAAAACGYVDFBYYBAMJECMBMY4LN2ZPTKG6A

@@ -31,34 +31,18 @@ export function useColorScheme() {
 
     useEffect(() => {
         if (isDark === undefined) {
-            console.log("system", isDark);
             changeClass(systemPrefersDark);
         } else {
-            console.log("isDark", isDark);
             changeClass(isDark);
         }
-    // eslint-disable-next-line 
+        // eslint-disable-next-line
     }, [systemPrefersDark]);
-
-    useEffect(() => {
-        console.log(
-            "systemPrefersDark",
-            systemPrefersDark,
-            "isDark",
-            isDark,
-            "classlist",
-            document.body.classList
-        );
-    }, [systemPrefersDark, value, isDark]);
 
     const switchMode = () => {
         if (isDark !== undefined) {
-            console.log("switching to 1 ", !isDark);
-
             setIsDark(!isDark);
             changeClass(!isDark);
         } else {
-            console.log("switching to 2 ", !systemPrefersDark);
             setIsDark(!systemPrefersDark);
             changeClass(!systemPrefersDark);
         }

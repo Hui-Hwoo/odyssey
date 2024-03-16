@@ -18,18 +18,78 @@ body {
     --global-bg-color: #fff;
     --global-fg-color: #000000;
     --global-text-color: #000000;
-    --glocal-link-color: #6c8359;
-    --global-link-hover-color: #da731f;
-    --global-link-active-color: #14afce;
-    --global-link-visited-color: #c612e2;
+    --global-highlight-color: #ffc107;
+
+    /* colors */
+    --primary-color: #347ea9;
+    --secondary-color: #f49be7;
+
+    --red-color: #d44c47;
+    --green-color: #458361;
+    --blue-color: #347ea9;
+    --brown-color: #9f6b53;
     --gray-color: #edecec;
-    --dark-gray-color: #d6d6d6;
+    --dark-gray-color: #55534f;
+    --gray-bg-color: rgba(223, 223, 223, 0.3);
+
+    /* highlight font */
+    --red-font: #5d1715;
+    --yellow-font: #402c1b;
+    --green-font: #1d3829;
+    --blue-font: #183347;
+    --gray-font: #32302d;
+
+    /* highlight */
+    --red-highlight: #ffe2dd;
+    --yellow-highlight: #feecc8;
+    --green-highlight: #dceddc;
+    --blue-highlight: #d3e5ef;
+    --gray-highlight: #e3e2e0;
+
+    /* link */
+    --link: #ffc107;
+    --date-color: #212121;
+    --date-bg: #eeeeee;
+    --date-border: rgba(54, 54, 54, 0.2);
 }
 
 body.dark {
     --global-bg-color: #1c1c1d;
     --global-fg-color: #fff;
     --global-text-color: #e8e8e8;
+    --global-highlight-color: #ffc107;
+
+    /* colors */
+    --primary-color: #2e7cd1;
+    --secondary-color: #f49be7;
+
+    --red-color: #ce4946;
+    --green-color: #2e9965;
+    --blue-color: #2e7cd1;
+    --brown-color: #ab755f;
+    --gray-color: #edecec;
+    --dark-gray-color: #d3d3d3;
+    --gray-bg-color: rgba(232, 232, 232, 0.3);
+
+    /* highlight font */
+    --red-font: #e3d8d7;
+    --yellow-font: #e8e1d6;
+    --green-font: #d7deda;
+    --blue-font: #d5dbe3;
+    --gray-font: #dfdfdf;
+
+    /* highlight */
+    --red-highlight: #6e3630;
+    --yellow-highlight: #89632a;
+    --green-highlight: #2c593f;
+    --blue-highlight: #28456c;
+    --gray-highlight: #5a5a5a;
+
+    /* link */
+    --link: #ffc107;
+    --date-color: #e6e6e6;
+    --date-bg: #6a6a6a;
+    --date-border: rgba(165, 165, 165, 0.276);
 }
 
 /* @media (prefers-color-scheme: dark) {

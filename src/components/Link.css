@@ -1,0 +1,17 @@
+.link_icon_container {
+    width: 24px;
+    height: 24px;
+}
+
+.link_icon {
+    background-color: white;
+    border-radius: 50%;
+    border: solid 2px white;
+}
+
+@media screen and (min-width: 500px) {
+    .link_icon:hover {
+        background-color: var(--link);
+        border-color: var(--link);
+    }
+}

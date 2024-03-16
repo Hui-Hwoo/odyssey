@@ -5,7 +5,9 @@ import Twitter from "./twitter.svg";
 import Instagram from "./instagram.svg";
 import YouTube from "./youtube.svg";
 import LinkIcon from "./link.svg";
-import MyAvatar from "./avatar-circle.png";
+import MyAvatar from "./avatar.png";
+import MyLogo from "./logo.png";
+import Selfie from "./selfie.png";
 
 export {
     Github,
@@ -16,4 +18,6 @@ export {
     YouTube,
     LinkIcon,
     MyAvatar,
+    MyLogo,
+    Selfie
 };

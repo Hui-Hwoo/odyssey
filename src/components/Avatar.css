@@ -4,6 +4,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 20px;
 }
 
 .AvatarImageContainer {
@@ -17,26 +18,25 @@
 
 .AvatarImageContainer .avatarImage {
     transition: opacity 0.3s ease;
+    border-radius: 50%;
+    border: solid 0px transparent;
 }
 
 .avatarHoverImage {
     display: none;
-    
-}
-
-.AvatarImageContainer:hover {
-    .avatarImage {
-        display: none;
-    }
-    .avatarHoverImage {
-        display: flex;
-    }
+    border-radius: 50%;
+    border: solid 0px transparent;
 }
 
 /* Disable hover on mobile */
-@media (max-width: 675px) {
-    .AvatarImageContainer.avatarHoverImage {
-        display: none;
+@media (min-width: 675px) {
+    .AvatarImageContainer:hover {
+        .avatarImage {
+            display: none;
+        }
+        .avatarHoverImage {
+            display: flex;
+        }
     }
 }
 
@@ -48,6 +48,9 @@
 }
 
 .AvatarIntro {
+    max-width: 400px;
+    text-align: center;
+    word-break: break-word;
     font-size: 1.2rem;
     color: var(--global-text-color);
     margin: 0 0 4px 0;
@@ -55,6 +58,7 @@
 
 .AvatarLinks {
     display: flex;
+    padding-top: 0.5rem;
     /* flex-direction: row; */
 }
 
