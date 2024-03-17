@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/odyssey/static/css/main.cb24ed6d.css",
-    "main.js": "/odyssey/static/js/main.0e8c0340.js",
+    "main.css": "/odyssey/static/css/main.d2715a4c.css",
+    "main.js": "/odyssey/static/js/main.2defee51.js",
+    "static/media/selfie.png": "/odyssey/static/media/selfie.241ec4a83ad4d45e3691.png",
+    "static/media/logo.png": "/odyssey/static/media/logo.c12eef390432ff85386a.png",
+    "static/media/avatar.png": "/odyssey/static/media/avatar.e516e3e84522f123c00f.png",
+    "static/media/github.svg": "/odyssey/static/media/github.3335e47bda9fcee2273f5b071dab0cdf.svg",
     "index.html": "/odyssey/index.html",
-    "main.cb24ed6d.css.map": "/odyssey/static/css/main.cb24ed6d.css.map",
-    "main.0e8c0340.js.map": "/odyssey/static/js/main.0e8c0340.js.map"
+    "static/media/twitter.svg": "/odyssey/static/media/twitter.8eb133f6fba05cc8bed70f16d8740fe2.svg",
+    "static/media/mail.svg": "/odyssey/static/media/mail.2b1293255f30b6cb903bee603ee45d7f.svg",
+    "static/media/linkedin.svg": "/odyssey/static/media/linkedin.d36fd700b572eeead6cddda43a106f85.svg",
+    "static/media/link.svg": "/odyssey/static/media/link.8fac273a79c3b595fc0acd24f3249457.svg",
+    "static/media/youtube.svg": "/odyssey/static/media/youtube.fcaba10899a010ebabe5bd2aca31815f.svg",
+    "static/media/instagram.svg": "/odyssey/static/media/instagram.bc602d0d02b26bff7e60e4f0d1a1130e.svg",
+    "main.d2715a4c.css.map": "/odyssey/static/css/main.d2715a4c.css.map",
+    "main.2defee51.js.map": "/odyssey/static/js/main.2defee51.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb24ed6d.css",
-    "static/js/main.0e8c0340.js"
+    "static/css/main.d2715a4c.css",
+    "static/js/main.2defee51.js"
   ]
 }
