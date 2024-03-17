@@ -126,6 +126,7 @@
 @media screen and (max-width: 600px) {
     .timeline ul li .incident_tag .tag {
         margin-right: 4px;
+        margin-bottom: 4px;
     }
 }
 
