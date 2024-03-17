@@ -47,7 +47,7 @@ body {
     --gray-highlight: #e3e2e0;
 
     /* link */
-    --link: #ffc107;
+    --link: #ffd54f;
     --date-color: #212121;
     --date-bg: #eeeeee;
     --date-border: rgba(54, 54, 54, 0.2);
@@ -86,7 +86,7 @@ body.dark {
     --gray-highlight: #5a5a5a;
 
     /* link */
-    --link: #ffc107;
+    --link: #ffd54f;
     --date-color: #e6e6e6;
     --date-bg: #6a6a6a;
     --date-border: rgba(165, 165, 165, 0.276);
