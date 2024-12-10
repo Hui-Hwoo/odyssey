@@ -57,6 +57,30 @@ export const timelineIncidents = [
     },
     {
         tag: [
+            { tagContent: "Internship", tagColor: ColorType.Blue },
+            { tagContent: "Backend", tagColor: ColorType.Gray },
+            { tagContent: "LLM", tagColor: ColorType.Yellow },
+        ],
+        date: new Date("2024-04-15"),
+        title: "YORG SWE Intern",
+        content:
+            "Enhanced chat interaction accuracy and reduced hallucinations by 25%, upgraded legacy APIs to support live streaming, and developed a secure payment system using Stripe API and Azure for robust processing.",
+        link: "https://atlasai.dev/",
+    },
+    {
+        tag: [
+            { tagContent: "Internship", tagColor: ColorType.Blue },
+            { tagContent: "Backend", tagColor: ColorType.Gray },
+            { tagContent: "LLM", tagColor: ColorType.Yellow },
+        ],
+        date: new Date("2024-07-15"),
+        title: "Gru.ai SWE Intern",
+        content:
+            "Developed a scalable data sync solution with Prisma and Kubernetes, optimized an LLM for error-free long file rewriting, and engineered an autonomous agent that secured top ranking on the swe-bench leaderboard.",
+        link: "https://gru.ai/",
+    },
+    {
+        tag: [
             { tagContent: "TA", tagColor: ColorType.Blue },
             { tagContent: "Work", tagColor: ColorType.Gray },
         ],
@@ -73,6 +97,16 @@ export const timelineIncidents = [
         title: "Teaching Assistant",
         content:
             "For course CS 5002 Discrete Mathematics and Data Structure at Northeastern University",
+    },
+    {
+        tag: [
+            { tagContent: "TA", tagColor: ColorType.Blue },
+            { tagContent: "Work", tagColor: ColorType.Gray },
+        ],
+        date: new Date("2024-09-10"),
+        title: "Teaching Assistant",
+        content: "For course CS 6220 Data Mining at Northeastern University",
+        link: "https://course.ccs.neu.edu/cs6220/data-mining/projects/2_project/",
     },
     {
         tag: [
@@ -166,5 +200,14 @@ export const timelineIncidents = [
         title: "Machine Learning Specialization Credential",
         content: "Issued by DeepLearning.AI and Stanford University",
         link: "https://www.coursera.org/account/accomplishments/specialization/certificate/3D6JAKJE676F",
+    },
+    {
+        tag: [
+            { tagContent: "Codepath", tagColor: ColorType.Green },
+            { tagContent: "Algorithm", tagColor: ColorType.Gray },
+        ],
+        date: new Date("2024-08-25"),
+        title: "Certificate in Advance Software Engineering",
+        content: "Issued by Codeppath",
     },
 ] as TimeIncident[];
