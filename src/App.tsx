@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import "./variables.css";
 import { timelineIncidents } from "./constant";
-import { ModeToggle } from "./components/ModeToggle";
+// import { ModeToggle } from "./components/ModeToggle";
 import { HomePage } from "./pages/Home";
 import { TimeLinePage, TimeIncident } from "./pages/TimeLine";
 
@@ -10,9 +10,9 @@ const App = () => {
     const incidents = timelineIncidents as TimeIncident[];
     return (
         <React.Fragment>
-            <div className="ModeToggle">
+            {/* <div className="ModeToggle">
                 <ModeToggle />
-            </div>
+            </div> */}
             <HomePage />
             <TimeLinePage incidents={incidents} />
         </React.Fragment>

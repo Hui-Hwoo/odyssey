@@ -1,5 +1,6 @@
 import React from "react";
-import { Avatar } from "../components/Avatar";
+import { Avatar } from "src/components/Avatar";
+import { SkillGraph } from "src/components/Graph/";
 import "./page.css";
 
 export const HomePage = () => {
@@ -17,6 +18,8 @@ export const HomePage = () => {
                     mail="hui.hwoo@gmail.com"
                     instagram="https://www.instagram.com/hui_hwoo/"
                 />
+                <div className="graph-separator"></div>
+                <SkillGraph />
             </div>
         </React.Fragment>
     );

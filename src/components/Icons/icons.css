@@ -1,0 +1,80 @@
+.skill-tag-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: solid 1px #ccc;
+    border-radius: 4px;
+    padding: 2px 6px;
+    margin: 2px;
+}
+
+.skill-tag-container:hover {
+    background-color: aqua;
+}
+
+.skill-tag-title {
+    margin-left: 4px;
+    font-size: 0.9rem;
+}
+
+/* Link Icons */
+
+.digit-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.link-tag-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.link-tag-index {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 4px;
+}
+
+.link-tag-title {
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.link-tag-link {
+    color: rgba(0, 0, 0, 0.8); /* Normal state color */
+    text-decoration: none; /* Remove underline */
+    transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+.link-tag-title a:hover {
+    color: #0277bd; /* Hover state color */
+}
+
+/* Visited state color */
+/* .link-tag-title a:visited {
+    color: black; 
+} */
+
+.experience-tag-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: fit-content;
+}
+
+.experience-tag-index {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 4px;
+}
+
+.experience-tag-title {
+    font-size: 0.9rem;
+    font-weight: bold;
+    padding: 2px 8px;
+    border-radius: 4px;
+}
