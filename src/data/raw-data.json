@@ -1,0 +1,382 @@
+[
+    {
+        "category": "Sample",
+        "data": [
+            {
+                "title": "Sample Title",
+                "description": "Sample Description",
+                "links": [
+                    {
+                        "title": "Sample Link",
+                        "url": "https://www.google.com"
+                    }
+                ],
+                "skills": ["skill1", "skill2"],
+                "date": ["2021-01-01", "2021-01-02"]
+            }
+        ]
+    },
+    {
+        "category": "Role",
+        "data": [
+            {
+                "title": "Frontend Engineer",
+                "description": "Developed and maintained the backend of the Gru.ai platform, including the user authentication system, the user data management system, and the user data analysis system.",
+                "links": [],
+                "skills": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "TypeScript",
+                    "React",
+                    "Micro Frontend",
+                    "Vue",
+                    "Figma",
+                    "Canva",
+                    "Zustand",
+                    "GraphQL",
+                    "Next.js",
+                    "D3.js",
+                    "TaiwindCSS",
+                    "Webpack",
+                    "Storybook",
+                    "Jest",
+                    "Swift",
+                    "SwiftUI",
+                    "MVVM",
+                    "iOS"
+                ],
+                "date": []
+            },
+            {
+                "title": "AI Engineer",
+                "description": "Developed and maintained the backend of the YORG platform, including the user authentication system, the user data management system, and the user data analysis system.",
+                "links": [],
+                "skills": [
+                    "LLM",
+                    "Vector Search",
+                    "GenAI",
+                    "Fine-tuning",
+                    "Deep Learning",
+                    "Data Mining",
+                    "Machine Learning"
+                ],
+                "date": []
+            },
+            {
+                "title": "Backend Engineer",
+                "description": "Developed and maintained the backend of the Gru.ai platform, including the user authentication system, the user data management system, and the user data analysis system.",
+                "links": [],
+                "skills": [
+                    "Node.js",
+                    "Python",
+                    "Pytest",
+                    "FastApi",
+                    "SQL",
+                    "SQLite",
+                    "Firestore",
+                    "Vitest",
+                    "PostgreSQL",
+                    "Azure",
+                    "AWS S3",
+                    "Stripe",
+                    "Prisma",
+                    "Algorithm",
+                    "Data Structure",
+                    "Math",
+                    "Jupyter Notebook",
+                    "Google Cloud",
+                    "C++",
+                    "Computer Vision",
+                    "PyTorch",
+                    "Google Colab",
+                    "CNN",
+                    "Docker",
+                    "Kubernetes",
+                    "CI/CD",
+                    "GitHub Actions"
+                ],
+                "date": []
+            }
+        ]
+    },
+    {
+        "category": "Internship",
+        "data": [
+            {
+                "title": "Lexmind SWE Intern",
+                "description": "Spearheaded the optimization of data serialization and deserialization processes, drove robust unit and integration testing strategies, and crafted specialized React components, streamlining development workflows and enhancing system reliability and efficiency.",
+                "skills": [
+                    "CSS",
+                    "HTML",
+                    "TypeScript",
+                    "React",
+                    "PostgreSQL",
+                    "SQL",
+                    "Python",
+                    "FastApi",
+                    "Pytest",
+                    "Frontend Engineer",
+                    "Backend Engineer"
+                ],
+                "links": [],
+                "date": ["2023-12-15"]
+            },
+            {
+                "title": "Aitist SWE Intern",
+                "description": "Tech-savvy innovator with a proven track record in propelling startup success from prototype to profitability, adept in React development for sophisticated applications, UI/UX design optimization, and enhancing codebase efficiency through centralized logic and customized API implementations, consistently driving enhanced performance and user satisfaction.",
+                "links": [
+                    {
+                        "title": "Aitist",
+                        "url": "https://www.aitist.ai/"
+                    }
+                ],
+                "skills": [
+                    "CSS",
+                    "HTML",
+                    "React",
+                    "TypeScript",
+                    "Figma",
+                    "Canva",
+                    "Zustand",
+                    "GraphQL",
+                    "Python",
+                    "FastApi",
+                    "LLM",
+                    "GenAI",
+                    "Frontend Engineer",
+                    "Backend Engineer",
+                    "AI Engineer"
+                ],
+                "date": ["2023-09-15"]
+            },
+            {
+                "title": "YORG SWE Intern",
+                "description": "Developed and maintained the backend of the YORG platform, including the user authentication system, the user data management system, and the user data analysis system.",
+                "skills": [
+                    "Python",
+                    "FastApi",
+                    "SQLite",
+                    "SQL",
+                    "LLM",
+                    "Pytest",
+                    "Azure",
+                    "Stripe",
+                    "Backend Engineer",
+                    "AI Engineer"
+                ],
+                "links": [
+                    {
+                        "title": "YORG",
+                        "url": "https://atlasai.dev/"
+                    }
+                ],
+                "date": ["2024-04-15"]
+            },
+            {
+                "title": "Gru.ai SWE Intern",
+                "description": "Developed and maintained the backend of the Gru.ai platform, including the user authentication system, the user data management system, and the user data analysis system.",
+                "skills": [
+                    "CSS",
+                    "HTML",
+                    "Node.js",
+                    "Vitest",
+                    "Docker",
+                    "Kubernetes",
+                    "LLM",
+                    "Fine-tuning",
+                    "Vector Search",
+                    "Next.js",
+                    "D3.js",
+                    "React",
+                    "TypeScript",
+                    "AWS S3",
+                    "Prisma",
+                    "PostgreSQL",
+                    "SQL",
+                    "CI/CD",
+                    "TaiwindCSS",
+                    "Webpack",
+                    "Frontend Engineer",
+                    "Backend Engineer",
+                    "AI Engineer"
+                ],
+                "links": [
+                    {
+                        "title": "Gru.ai",
+                        "url": "https://www.gru.ai/"
+                    }
+                ],
+                "date": ["2024-03-15"]
+            }
+        ]
+    },
+    {
+        "category": "Teaching Assistants",
+        "data": [
+            {
+                "title": "Algorithm TA",
+                "description": "Assisted students with algorithm assignments, graded assignments, and held office hours.",
+                "skills": ["Python", "Algorithm", "Data Structure"],
+                "links": [],
+                "date": ["2023-09-15", "2024-04-15"]
+            },
+            {
+                "title": "Discrte Math TA",
+                "description": "Assisted students with discrete math assignments, graded assignments, and held office hours.",
+                "skills": ["Python", "Math", "Data Structure"],
+                "links": [],
+                "date": ["2023-09-15", "2024-04-15"]
+            },
+            {
+                "title": "Data Mining TA",
+                "description": "Assisted students with data mining assignments, graded assignments, and held office hours.",
+                "skills": ["Python", "Jupyter Notebook", "Machine Learning"],
+                "links": [],
+                "date": ["2023-09-15", "2024-04-15"]
+            }
+        ]
+    },
+    {
+        "category": "Project",
+        "data": [
+            {
+                "title": "Micro Frontend",
+                "description": "Architected a scalable microfrontend application enabling dozens of teams to develop and deploy independently.",
+                "links": [
+                    {
+                        "title": "Source Code",
+                        "url": "https://github.com/Hui-Hwoo/Micro-Frontend"
+                    }
+                ],
+                "skills": [
+                    "React",
+                    "Vue",
+                    "Webpack",
+                    "CI/CD",
+                    "GitHub Actions",
+                    "Micro Frontend",
+                    "Frontend Engineer",
+                    "CSS",
+                    "HTML"
+                ],
+                "date": []
+            },
+            {
+                "title": "Sauce",
+                "description": "Created a Sauce-Sharing Web Application utilizing Node, Express, Firestore, and Google Cloud, featuring mobile-responsive design, REST API integration for authentication and data management, and streamlined CI/CD pipeline via GitHub Actions, significantly enhancing deployment efficiency and user engagement.",
+                "links": [
+                    {
+                        "title": "Source Code",
+                        "url": "https://github.com/Hui-Hwoo/Sauce"
+                    }
+                ],
+                "skills": [
+                    "React",
+                    "Node.js",
+                    "Firestore",
+                    "Google Cloud",
+                    "CI/CD",
+                    "CSS",
+                    "HTML",
+                    "GitHub Actions",
+                    "TypeScript",
+                    "Frontend Engineer",
+                    "Backend Engineer"
+                ],
+                "date": []
+            },
+            {
+                "title": "Nope",
+                "description": "Delivered a robust Notion-style Component Library utilizing TypeScript, React, Jest, and Storybook, featuring seamless component interaction, rigorous testing with Jest, and comprehensive documentation through Storybook deployment.",
+                "links": [
+                    {
+                        "title": "Source Code",
+                        "url": "https://github.com/Hui-Hwoo/Nope"
+                    }
+                ],
+                "skills": [
+                    "React",
+                    "CSS",
+                    "HTML",
+                    "Node.js",
+                    "TypeScript",
+                    "Storybook",
+                    "Jest",
+                    "Webpack",
+                    "Frontend Engineer"
+                ],
+                "date": []
+            },
+            {
+                "title": "Digit Recognition system",
+                "description": "Led the development and deployment of an Object Recognition system using Deep Networks, achieving a remarkable 99% accuracy rate in handwritten digit detection and recognition leveraging the MNIST dataset, fine-tuning a custom CNN with PyTorch and Torchvision, seamlessly adapting for Greek Letters recognition through transfer learning, and optimizing workflow efficiency with Google Colab's GPU infrastructure.",
+                "links": [
+                    {
+                        "title": "Report",
+                        "url": "https://hui-hwoo.notion.site/Report-5-Recognition-using-Deep-Networks-815475a309bd42fca45d639694efac15"
+                    }
+                ],
+                "skills": [
+                    "C++",
+                    "Computer Vision",
+                    "Deep Learning",
+                    "PyTorch",
+                    "Google Colab",
+                    "CNN",
+                    "Backend Engineer"
+                ],
+                "date": []
+            },
+            {
+                "title": "Memorize IOS App",
+                "description": "Developed a sophisticated Memorize iOS App utilizing SwiftUI, MVVM architecture, and Combine framework, featuring dynamic card creation, and user-friendly game interface, significantly enhancing user engagement and retention.",
+                "links": [
+                    {
+                        "title": "Source Code",
+                        "url": "hhttps://github.com/Hui-Hwoo/CS193p-Developing-Apps-for-iOS"
+                    }
+                ],
+                "skills": [
+                    "Swift",
+                    "SwiftUI",
+                    "MVVM",
+                    "iOS",
+                    "Frontend Engineer"
+                ],
+                "date": []
+            }
+        ]
+    },
+    {
+        "category": "Educations",
+        "data": [
+            {
+                "title": "Northeastern University",
+                "description": "Master of Science in Computer Science",
+                "links": [],
+                "skills": [
+                    "Python",
+                    "C++",
+                    "Data Structure",
+                    "Algorithm",
+                    "Machine Learning",
+                    "Deep Learning",
+                    "Computer Vision",
+                    "Data Mining",
+                    "Database",
+                    "SQL",
+                    "PostgreSQL",
+                    "Frontend Engineer",
+                    "Backend Engineer",
+                    "AI Engineer"
+                ],
+                "date": ["2021-01-01", "2021-01-02"]
+            }
+        ]
+    },
+    {
+        "category": "Other",
+        "data": []
+    }
+]

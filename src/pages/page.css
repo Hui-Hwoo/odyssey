@@ -1,3 +1,19 @@
 .separator {
-    margin-top: 10vh;
+    margin-top: 5vh;
+}
+
+@media screen and (min-height: 900px) {
+    .separator {
+        margin-top: 10vh;
+    }
+}
+
+@media screen and (min-height: 800px) {
+    .graph-separator {
+        margin-top: calc((90vh - 270px - 390px) / 3);
+    }
+}
+
+.HomePage {
+    height: 100vh;
 }

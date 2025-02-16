@@ -6,6 +6,15 @@ export enum ColorType {
     Blue = "blue",
 }
 
+export enum Color {
+    Red = "red",
+    Gray = "gray",
+    Yellow = "yellow",
+    Green = "green",
+    Blue = "blue",
+    Transparent = "transparent",
+}
+
 export enum SocialLinkType {
     Mail = "mail",
     GitHub = "github",

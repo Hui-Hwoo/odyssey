@@ -1,0 +1,3797 @@
+{
+  "nodes": [
+    {
+      "fx": -60.104076400856535,
+      "fy": -60.10407640085654,
+      "id": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "radius": 70,
+      "ops": {
+        "title": "Frontend Engineer",
+        "color": "yellow"
+      }
+    },
+    {
+      "fx": 91.7629534974615,
+      "fy": -24.58780928473947,
+      "id": "role-77aff387-4251-43af-94fe-269ea6251112",
+      "radius": 80,
+      "ops": {
+        "title": "AI Engineer",
+        "color": "gray"
+      }
+    },
+    {
+      "fx": -25.88190451025208,
+      "fy": 96.59258262890683,
+      "id": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "radius": 75,
+      "ops": {
+        "title": "Backend Engineer",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "radius": 15,
+      "ops": {
+        "title": "Lexmind SWE Intern",
+        "color": "red"
+      }
+    },
+    {
+      "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "radius": 15,
+      "ops": {
+        "title": "Aitist SWE Intern",
+        "color": "red"
+      }
+    },
+    {
+      "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "radius": 15,
+      "ops": {
+        "title": "YORG SWE Intern",
+        "color": "red"
+      }
+    },
+    {
+      "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "radius": 15,
+      "ops": {
+        "title": "Gru.ai SWE Intern",
+        "color": "red"
+      }
+    },
+    {
+      "id": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+      "radius": 12,
+      "ops": {
+        "title": "Micro Frontend",
+        "color": "green"
+      }
+    },
+    {
+      "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "radius": 12,
+      "ops": {
+        "title": "Sauce",
+        "color": "green"
+      }
+    },
+    {
+      "id": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+      "radius": 12,
+      "ops": {
+        "title": "Nope",
+        "color": "green"
+      }
+    },
+    {
+      "id": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+      "radius": 12,
+      "ops": {
+        "title": "Digit Recognition system",
+        "color": "green"
+      }
+    },
+    {
+      "id": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+      "radius": 12,
+      "ops": {
+        "title": "Memorize IOS App",
+        "color": "green"
+      }
+    },
+    {
+      "id": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c",
+      "radius": 7,
+      "ops": {
+        "title": "HTML",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c",
+      "radius": 7,
+      "ops": {
+        "title": "CSS",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-8ac110e2-096c-4cb5-aff9-89e6982b1838",
+      "radius": 7,
+      "ops": {
+        "title": "JavaScript",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4",
+      "radius": 7,
+      "ops": {
+        "title": "TypeScript",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7",
+      "radius": 7,
+      "ops": {
+        "title": "React",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-c217bf1d-a9d1-4480-a357-9d33d843c2a2",
+      "radius": 7,
+      "ops": {
+        "title": "Micro Frontend",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-0a803ee6-c8b0-4c91-b1fd-6db9e962c125",
+      "radius": 7,
+      "ops": {
+        "title": "Vue",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-fdd0542d-c209-428a-a0a1-a33b77fdee1f",
+      "radius": 7,
+      "ops": {
+        "title": "Figma",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-6252060b-81dd-4266-b620-ea865183bf9d",
+      "radius": 7,
+      "ops": {
+        "title": "Canva",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-3e9e0726-1fa1-4480-a2a2-a8b7fe8a4d01",
+      "radius": 7,
+      "ops": {
+        "title": "Zustand",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-8dbed2e2-747d-43f4-8fa3-9752915cabf0",
+      "radius": 7,
+      "ops": {
+        "title": "GraphQL",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-7cddb7eb-f318-4c69-ab47-dd4cd8f7ec8a",
+      "radius": 7,
+      "ops": {
+        "title": "Next.js",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-111b0e4b-25a2-4e7b-8d5e-aafe51dbb1d5",
+      "radius": 7,
+      "ops": {
+        "title": "D3.js",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-c1068890-7f84-4b24-9a9d-681737c47b05",
+      "radius": 7,
+      "ops": {
+        "title": "TaiwindCSS",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-4631a308-988b-4b0d-9bc5-dd53844a0f04",
+      "radius": 7,
+      "ops": {
+        "title": "Webpack",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-0184f814-b695-4374-bba2-8a6bd3272127",
+      "radius": 7,
+      "ops": {
+        "title": "Storybook",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-f61ff5d7-6c3f-4b99-830c-27f63e49dbe6",
+      "radius": 7,
+      "ops": {
+        "title": "Jest",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-fff1a732-f59f-4085-a7bd-72320ba928fe",
+      "radius": 7,
+      "ops": {
+        "title": "Swift",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-43dfab38-8e89-47dd-b951-8cd6be85e7bd",
+      "radius": 7,
+      "ops": {
+        "title": "SwiftUI",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-18ceca1a-4f83-491c-b662-9f4b60f65ecc",
+      "radius": 7,
+      "ops": {
+        "title": "MVVM",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-71610d98-7bf5-4a02-ba12-edb118ab48ae",
+      "radius": 7,
+      "ops": {
+        "title": "IOS",
+        "color": "yellow"
+      }
+    },
+    {
+      "id": "skill-c54bcc22-e9f8-4184-a7a0-b2592e12b83a",
+      "radius": 7,
+      "ops": {
+        "title": "LLM",
+        "color": "gray"
+      }
+    },
+    {
+      "id": "skill-9d8a9e4d-5fe8-4e3c-a1bc-a305954b7503",
+      "radius": 7,
+      "ops": {
+        "title": "Vector Search",
+        "color": "gray"
+      }
+    },
+    {
+      "id": "skill-dba930d8-60fb-4528-aeb3-083e079c0c0c",
+      "radius": 7,
+      "ops": {
+        "title": "GenAI",
+        "color": "gray"
+      }
+    },
+    {
+      "id": "skill-2f4ab8b4-3f23-47ac-bd56-2c42a268579a",
+      "radius": 7,
+      "ops": {
+        "title": "Fine-tuning",
+        "color": "gray"
+      }
+    },
+    {
+      "id": "skill-baeb9a66-6c65-4557-99ca-5c1497d5cf78",
+      "radius": 7,
+      "ops": {
+        "title": "Deep Learning",
+        "color": "gray"
+      }
+    },
+    {
+      "id": "skill-b0776e76-19e6-4650-8f5d-06053a2662f3",
+      "radius": 7,
+      "ops": {
+        "title": "Data Mining",
+        "color": "gray"
+      }
+    },
+    {
+      "id": "skill-8d1501f2-e306-45fd-a77b-791dfdd69de1",
+      "radius": 7,
+      "ops": {
+        "title": "Machine Learning",
+        "color": "gray"
+      }
+    },
+    {
+      "id": "skill-f80aff4c-9153-47e8-97ee-9461dea45078",
+      "radius": 7,
+      "ops": {
+        "title": "Node.js",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a",
+      "radius": 7,
+      "ops": {
+        "title": "Python",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-d3505b45-49d6-4a17-9ec6-6f6525498b15",
+      "radius": 7,
+      "ops": {
+        "title": "Pytest",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-e78d6e4e-7520-468c-9f74-ecac86aff99d",
+      "radius": 7,
+      "ops": {
+        "title": "FastApi",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a",
+      "radius": 7,
+      "ops": {
+        "title": "SQL",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-2c894e11-f359-479c-9b84-edc7816c77ba",
+      "radius": 7,
+      "ops": {
+        "title": "SQLite",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-3a7fc2da-9a9d-4b19-bd0e-9004af73441d",
+      "radius": 7,
+      "ops": {
+        "title": "Firestore",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-a7d99e27-5f71-4a9f-bbf9-9657ff61afea",
+      "radius": 7,
+      "ops": {
+        "title": "Vitest",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-e4444a79-159a-40db-8574-f1de64f3fb18",
+      "radius": 7,
+      "ops": {
+        "title": "PostgreSQL",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-a1e79150-1b23-40ac-b2e8-6359aa95f1ef",
+      "radius": 7,
+      "ops": {
+        "title": "Azure",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-052fc523-a4ce-4e8d-a25a-80ff05db0e04",
+      "radius": 7,
+      "ops": {
+        "title": "AWS S3",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-ecdcc0fb-0367-42cf-bb6f-f325cc7974a9",
+      "radius": 7,
+      "ops": {
+        "title": "Stripe",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-38848d1f-66f0-4fcc-afaf-27dc00d7f0d0",
+      "radius": 7,
+      "ops": {
+        "title": "Prisma",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-6d38c5b3-4e60-4d03-a83f-ff9c91e85ece",
+      "radius": 7,
+      "ops": {
+        "title": "Algorithm",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-d2f9f961-fc08-4920-9d76-b0cc6cfa8f28",
+      "radius": 7,
+      "ops": {
+        "title": "Data Structure",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-8500048c-d66c-441d-9210-204a1b7d4e10",
+      "radius": 7,
+      "ops": {
+        "title": "Math",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-57c30652-908d-408c-9b71-ce8b7276e25a",
+      "radius": 7,
+      "ops": {
+        "title": "Jupyter Notebook",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-8ebdd395-41b5-4f36-90df-a7cb9d0e3674",
+      "radius": 7,
+      "ops": {
+        "title": "Google Cloud",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-0d7d9ab2-f92d-49d7-86f2-edef08e92793",
+      "radius": 7,
+      "ops": {
+        "title": "C++",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-53223d4f-08c7-4c10-897b-110d8bfb7fe9",
+      "radius": 7,
+      "ops": {
+        "title": "Computer Vision",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-d8735bd4-50d2-4789-8664-3c5011874f74",
+      "radius": 7,
+      "ops": {
+        "title": "PyTorch",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-ad8a7b8d-36f8-413b-bb9d-bec25b47c4fb",
+      "radius": 7,
+      "ops": {
+        "title": "Google Colab",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-e41289dc-013c-4b3f-96c5-f2700e7d5b6b",
+      "radius": 7,
+      "ops": {
+        "title": "CNN",
+        "color": "blue"
+      }
+    },
+    {
+      "id": "skill-673b5399-f1df-44bd-946d-e4ec74e3eb4c",
+      "radius": 7,
+      "ops": {
+        "title": "Docker",
+        "color": "green"
+      }
+    },
+    {
+      "id": "skill-a1e3b047-1e78-443f-8473-07ca6bb260a7",
+      "radius": 7,
+      "ops": {
+        "title": "Kubernetes",
+        "color": "green"
+      }
+    },
+    {
+      "id": "skill-a5e6ef5f-739b-4ea2-9243-2b4a66a1f35c",
+      "radius": 7,
+      "ops": {
+        "title": "CI/CD",
+        "color": "green"
+      }
+    },
+    {
+      "id": "skill-b9411802-fe62-4bc2-972e-de6dbf5c8948",
+      "radius": 7,
+      "ops": {
+        "title": "GitHub Actions",
+        "color": "green"
+      }
+    },
+    {
+      "id": "teaching assistants-430676c5-b99e-434c-a41f-8aaf10b1ab16",
+      "radius": 7,
+      "ops": {
+        "title": "Algorithm TA",
+        "color": "black"
+      }
+    },
+    {
+      "id": "teaching assistants-6f958483-b533-4232-9e3c-552557f57d4c",
+      "radius": 7,
+      "ops": {
+        "title": "Discrte Math TA",
+        "color": "black"
+      }
+    },
+    {
+      "id": "teaching assistants-2e25fe58-8265-4725-8b71-92a75c5719de",
+      "radius": 7,
+      "ops": {
+        "title": "Data Mining TA",
+        "color": "black"
+      }
+    },
+    {
+      "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "radius": 7,
+      "ops": {
+        "title": "Northeastern University",
+        "color": "black"
+      }
+    },
+    {
+      "id": "skill-119355b2-729e-4d8e-9ac5-1b855e157917",
+      "radius": 7,
+      "ops": {
+        "title": "Database",
+        "color": "blue"
+      }
+    }
+  ],
+  "links": [
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-8ac110e2-096c-4cb5-aff9-89e6982b1838"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-c217bf1d-a9d1-4480-a357-9d33d843c2a2"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-0a803ee6-c8b0-4c91-b1fd-6db9e962c125"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-fdd0542d-c209-428a-a0a1-a33b77fdee1f"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-6252060b-81dd-4266-b620-ea865183bf9d"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-3e9e0726-1fa1-4480-a2a2-a8b7fe8a4d01"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-8dbed2e2-747d-43f4-8fa3-9752915cabf0"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-7cddb7eb-f318-4c69-ab47-dd4cd8f7ec8a"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-111b0e4b-25a2-4e7b-8d5e-aafe51dbb1d5"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-c1068890-7f84-4b24-9a9d-681737c47b05"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-4631a308-988b-4b0d-9bc5-dd53844a0f04"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-0184f814-b695-4374-bba2-8a6bd3272127"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-f61ff5d7-6c3f-4b99-830c-27f63e49dbe6"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-fff1a732-f59f-4085-a7bd-72320ba928fe"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-43dfab38-8e89-47dd-b951-8cd6be85e7bd"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-18ceca1a-4f83-491c-b662-9f4b60f65ecc"
+    },
+    {
+      "source": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "target": "skill-71610d98-7bf5-4a02-ba12-edb118ab48ae"
+    },
+    {
+      "source": "role-77aff387-4251-43af-94fe-269ea6251112",
+      "target": "skill-c54bcc22-e9f8-4184-a7a0-b2592e12b83a"
+    },
+    {
+      "source": "role-77aff387-4251-43af-94fe-269ea6251112",
+      "target": "skill-9d8a9e4d-5fe8-4e3c-a1bc-a305954b7503"
+    },
+    {
+      "source": "role-77aff387-4251-43af-94fe-269ea6251112",
+      "target": "skill-dba930d8-60fb-4528-aeb3-083e079c0c0c"
+    },
+    {
+      "source": "role-77aff387-4251-43af-94fe-269ea6251112",
+      "target": "skill-2f4ab8b4-3f23-47ac-bd56-2c42a268579a"
+    },
+    {
+      "source": "role-77aff387-4251-43af-94fe-269ea6251112",
+      "target": "skill-baeb9a66-6c65-4557-99ca-5c1497d5cf78"
+    },
+    {
+      "source": "role-77aff387-4251-43af-94fe-269ea6251112",
+      "target": "skill-b0776e76-19e6-4650-8f5d-06053a2662f3"
+    },
+    {
+      "source": "role-77aff387-4251-43af-94fe-269ea6251112",
+      "target": "skill-8d1501f2-e306-45fd-a77b-791dfdd69de1"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-f80aff4c-9153-47e8-97ee-9461dea45078"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-d3505b45-49d6-4a17-9ec6-6f6525498b15"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-e78d6e4e-7520-468c-9f74-ecac86aff99d"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-2c894e11-f359-479c-9b84-edc7816c77ba"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-3a7fc2da-9a9d-4b19-bd0e-9004af73441d"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-a7d99e27-5f71-4a9f-bbf9-9657ff61afea"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-e4444a79-159a-40db-8574-f1de64f3fb18"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-a1e79150-1b23-40ac-b2e8-6359aa95f1ef"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-052fc523-a4ce-4e8d-a25a-80ff05db0e04"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-ecdcc0fb-0367-42cf-bb6f-f325cc7974a9"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-38848d1f-66f0-4fcc-afaf-27dc00d7f0d0"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-6d38c5b3-4e60-4d03-a83f-ff9c91e85ece"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-d2f9f961-fc08-4920-9d76-b0cc6cfa8f28"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-8500048c-d66c-441d-9210-204a1b7d4e10"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-57c30652-908d-408c-9b71-ce8b7276e25a"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-8ebdd395-41b5-4f36-90df-a7cb9d0e3674"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-0d7d9ab2-f92d-49d7-86f2-edef08e92793"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-53223d4f-08c7-4c10-897b-110d8bfb7fe9"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-d8735bd4-50d2-4789-8664-3c5011874f74"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-ad8a7b8d-36f8-413b-bb9d-bec25b47c4fb"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-e41289dc-013c-4b3f-96c5-f2700e7d5b6b"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-673b5399-f1df-44bd-946d-e4ec74e3eb4c"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-a1e3b047-1e78-443f-8473-07ca6bb260a7"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-a5e6ef5f-739b-4ea2-9243-2b4a66a1f35c"
+    },
+    {
+      "source": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "target": "skill-b9411802-fe62-4bc2-972e-de6dbf5c8948"
+    },
+    {
+      "source": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "target": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c"
+    },
+    {
+      "source": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "target": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c"
+    },
+    {
+      "source": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "target": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4"
+    },
+    {
+      "source": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "target": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7"
+    },
+    {
+      "source": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "target": "skill-e4444a79-159a-40db-8574-f1de64f3fb18"
+    },
+    {
+      "source": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "target": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a"
+    },
+    {
+      "source": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "target": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a"
+    },
+    {
+      "source": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "target": "skill-e78d6e4e-7520-468c-9f74-ecac86aff99d"
+    },
+    {
+      "source": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "target": "skill-d3505b45-49d6-4a17-9ec6-6f6525498b15"
+    },
+    {
+      "source": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "target": "role-02f01365-ffeb-4163-9111-87831596c44b"
+    },
+    {
+      "source": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "target": "role-213589c2-5495-486c-b32b-842ceb3b69fe"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-fdd0542d-c209-428a-a0a1-a33b77fdee1f"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-6252060b-81dd-4266-b620-ea865183bf9d"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-3e9e0726-1fa1-4480-a2a2-a8b7fe8a4d01"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-8dbed2e2-747d-43f4-8fa3-9752915cabf0"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-e78d6e4e-7520-468c-9f74-ecac86aff99d"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-c54bcc22-e9f8-4184-a7a0-b2592e12b83a"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "skill-dba930d8-60fb-4528-aeb3-083e079c0c0c"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "role-02f01365-ffeb-4163-9111-87831596c44b"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "role-213589c2-5495-486c-b32b-842ceb3b69fe"
+    },
+    {
+      "source": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "target": "role-77aff387-4251-43af-94fe-269ea6251112"
+    },
+    {
+      "source": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "target": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a"
+    },
+    {
+      "source": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "target": "skill-e78d6e4e-7520-468c-9f74-ecac86aff99d"
+    },
+    {
+      "source": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "target": "skill-2c894e11-f359-479c-9b84-edc7816c77ba"
+    },
+    {
+      "source": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "target": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a"
+    },
+    {
+      "source": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "target": "skill-c54bcc22-e9f8-4184-a7a0-b2592e12b83a"
+    },
+    {
+      "source": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "target": "skill-d3505b45-49d6-4a17-9ec6-6f6525498b15"
+    },
+    {
+      "source": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "target": "skill-a1e79150-1b23-40ac-b2e8-6359aa95f1ef"
+    },
+    {
+      "source": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "target": "skill-ecdcc0fb-0367-42cf-bb6f-f325cc7974a9"
+    },
+    {
+      "source": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "target": "role-213589c2-5495-486c-b32b-842ceb3b69fe"
+    },
+    {
+      "source": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "target": "role-77aff387-4251-43af-94fe-269ea6251112"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-f80aff4c-9153-47e8-97ee-9461dea45078"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-a7d99e27-5f71-4a9f-bbf9-9657ff61afea"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-673b5399-f1df-44bd-946d-e4ec74e3eb4c"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-a1e3b047-1e78-443f-8473-07ca6bb260a7"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-c54bcc22-e9f8-4184-a7a0-b2592e12b83a"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-2f4ab8b4-3f23-47ac-bd56-2c42a268579a"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-9d8a9e4d-5fe8-4e3c-a1bc-a305954b7503"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-7cddb7eb-f318-4c69-ab47-dd4cd8f7ec8a"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-111b0e4b-25a2-4e7b-8d5e-aafe51dbb1d5"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-052fc523-a4ce-4e8d-a25a-80ff05db0e04"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-38848d1f-66f0-4fcc-afaf-27dc00d7f0d0"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-e4444a79-159a-40db-8574-f1de64f3fb18"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-a5e6ef5f-739b-4ea2-9243-2b4a66a1f35c"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-c1068890-7f84-4b24-9a9d-681737c47b05"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "skill-4631a308-988b-4b0d-9bc5-dd53844a0f04"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "role-02f01365-ffeb-4163-9111-87831596c44b"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "role-213589c2-5495-486c-b32b-842ceb3b69fe"
+    },
+    {
+      "source": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "target": "role-77aff387-4251-43af-94fe-269ea6251112"
+    },
+    {
+      "source": "teaching assistants-430676c5-b99e-434c-a41f-8aaf10b1ab16",
+      "target": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a"
+    },
+    {
+      "source": "teaching assistants-430676c5-b99e-434c-a41f-8aaf10b1ab16",
+      "target": "skill-6d38c5b3-4e60-4d03-a83f-ff9c91e85ece"
+    },
+    {
+      "source": "teaching assistants-430676c5-b99e-434c-a41f-8aaf10b1ab16",
+      "target": "skill-d2f9f961-fc08-4920-9d76-b0cc6cfa8f28"
+    },
+    {
+      "source": "teaching assistants-6f958483-b533-4232-9e3c-552557f57d4c",
+      "target": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a"
+    },
+    {
+      "source": "teaching assistants-6f958483-b533-4232-9e3c-552557f57d4c",
+      "target": "skill-8500048c-d66c-441d-9210-204a1b7d4e10"
+    },
+    {
+      "source": "teaching assistants-6f958483-b533-4232-9e3c-552557f57d4c",
+      "target": "skill-d2f9f961-fc08-4920-9d76-b0cc6cfa8f28"
+    },
+    {
+      "source": "teaching assistants-2e25fe58-8265-4725-8b71-92a75c5719de",
+      "target": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a"
+    },
+    {
+      "source": "teaching assistants-2e25fe58-8265-4725-8b71-92a75c5719de",
+      "target": "skill-57c30652-908d-408c-9b71-ce8b7276e25a"
+    },
+    {
+      "source": "teaching assistants-2e25fe58-8265-4725-8b71-92a75c5719de",
+      "target": "skill-8d1501f2-e306-45fd-a77b-791dfdd69de1"
+    },
+    {
+      "source": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+      "target": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7"
+    },
+    {
+      "source": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+      "target": "skill-0a803ee6-c8b0-4c91-b1fd-6db9e962c125"
+    },
+    {
+      "source": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+      "target": "skill-4631a308-988b-4b0d-9bc5-dd53844a0f04"
+    },
+    {
+      "source": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+      "target": "skill-a5e6ef5f-739b-4ea2-9243-2b4a66a1f35c"
+    },
+    {
+      "source": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+      "target": "skill-b9411802-fe62-4bc2-972e-de6dbf5c8948"
+    },
+    {
+      "source": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+      "target": "skill-c217bf1d-a9d1-4480-a357-9d33d843c2a2"
+    },
+    {
+      "source": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+      "target": "role-02f01365-ffeb-4163-9111-87831596c44b"
+    },
+    {
+      "source": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+      "target": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c"
+    },
+    {
+      "source": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+      "target": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c"
+    },
+    {
+      "source": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "target": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7"
+    },
+    {
+      "source": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "target": "skill-f80aff4c-9153-47e8-97ee-9461dea45078"
+    },
+    {
+      "source": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "target": "skill-3a7fc2da-9a9d-4b19-bd0e-9004af73441d"
+    },
+    {
+      "source": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "target": "skill-8ebdd395-41b5-4f36-90df-a7cb9d0e3674"
+    },
+    {
+      "source": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "target": "skill-a5e6ef5f-739b-4ea2-9243-2b4a66a1f35c"
+    },
+    {
+      "source": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "target": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c"
+    },
+    {
+      "source": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "target": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c"
+    },
+    {
+      "source": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "target": "skill-b9411802-fe62-4bc2-972e-de6dbf5c8948"
+    },
+    {
+      "source": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "target": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4"
+    },
+    {
+      "source": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "target": "role-02f01365-ffeb-4163-9111-87831596c44b"
+    },
+    {
+      "source": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "target": "role-213589c2-5495-486c-b32b-842ceb3b69fe"
+    },
+    {
+      "source": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+      "target": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7"
+    },
+    {
+      "source": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+      "target": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c"
+    },
+    {
+      "source": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+      "target": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c"
+    },
+    {
+      "source": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+      "target": "skill-f80aff4c-9153-47e8-97ee-9461dea45078"
+    },
+    {
+      "source": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+      "target": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4"
+    },
+    {
+      "source": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+      "target": "skill-0184f814-b695-4374-bba2-8a6bd3272127"
+    },
+    {
+      "source": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+      "target": "skill-f61ff5d7-6c3f-4b99-830c-27f63e49dbe6"
+    },
+    {
+      "source": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+      "target": "skill-4631a308-988b-4b0d-9bc5-dd53844a0f04"
+    },
+    {
+      "source": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+      "target": "role-02f01365-ffeb-4163-9111-87831596c44b"
+    },
+    {
+      "source": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+      "target": "skill-0d7d9ab2-f92d-49d7-86f2-edef08e92793"
+    },
+    {
+      "source": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+      "target": "skill-53223d4f-08c7-4c10-897b-110d8bfb7fe9"
+    },
+    {
+      "source": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+      "target": "skill-baeb9a66-6c65-4557-99ca-5c1497d5cf78"
+    },
+    {
+      "source": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+      "target": "skill-d8735bd4-50d2-4789-8664-3c5011874f74"
+    },
+    {
+      "source": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+      "target": "skill-ad8a7b8d-36f8-413b-bb9d-bec25b47c4fb"
+    },
+    {
+      "source": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+      "target": "skill-e41289dc-013c-4b3f-96c5-f2700e7d5b6b"
+    },
+    {
+      "source": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+      "target": "role-213589c2-5495-486c-b32b-842ceb3b69fe"
+    },
+    {
+      "source": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+      "target": "skill-fff1a732-f59f-4085-a7bd-72320ba928fe"
+    },
+    {
+      "source": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+      "target": "skill-43dfab38-8e89-47dd-b951-8cd6be85e7bd"
+    },
+    {
+      "source": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+      "target": "skill-18ceca1a-4f83-491c-b662-9f4b60f65ecc"
+    },
+    {
+      "source": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+      "target": "skill-71610d98-7bf5-4a02-ba12-edb118ab48ae"
+    },
+    {
+      "source": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+      "target": "role-02f01365-ffeb-4163-9111-87831596c44b"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "skill-0d7d9ab2-f92d-49d7-86f2-edef08e92793"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "skill-d2f9f961-fc08-4920-9d76-b0cc6cfa8f28"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "skill-6d38c5b3-4e60-4d03-a83f-ff9c91e85ece"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "skill-8d1501f2-e306-45fd-a77b-791dfdd69de1"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "skill-baeb9a66-6c65-4557-99ca-5c1497d5cf78"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "skill-53223d4f-08c7-4c10-897b-110d8bfb7fe9"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "skill-b0776e76-19e6-4650-8f5d-06053a2662f3"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "skill-119355b2-729e-4d8e-9ac5-1b855e157917"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "skill-e4444a79-159a-40db-8574-f1de64f3fb18"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "role-02f01365-ffeb-4163-9111-87831596c44b"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "role-213589c2-5495-486c-b32b-842ceb3b69fe"
+    },
+    {
+      "source": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "target": "role-77aff387-4251-43af-94fe-269ea6251112"
+    }
+  ],
+  "nodesMap": {
+    "role-02f01365-ffeb-4163-9111-87831596c44b": {
+      "id": "role-02f01365-ffeb-4163-9111-87831596c44b",
+      "category": "role",
+      "color": "yellow",
+      "title": "Frontend Engineer",
+      "description": "Developed and maintained the backend of the Gru.ai platform, including the user authentication system, the user data management system, and the user data analysis system.",
+      "skills": [
+        {
+          "id": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c",
+          "title": "HTML",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c",
+          "title": "CSS",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-8ac110e2-096c-4cb5-aff9-89e6982b1838",
+          "title": "JavaScript",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4",
+          "title": "TypeScript",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7",
+          "title": "React",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-c217bf1d-a9d1-4480-a357-9d33d843c2a2",
+          "title": "Micro Frontend",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-0a803ee6-c8b0-4c91-b1fd-6db9e962c125",
+          "title": "Vue",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-fdd0542d-c209-428a-a0a1-a33b77fdee1f",
+          "title": "Figma",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-6252060b-81dd-4266-b620-ea865183bf9d",
+          "title": "Canva",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-3e9e0726-1fa1-4480-a2a2-a8b7fe8a4d01",
+          "title": "Zustand",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-8dbed2e2-747d-43f4-8fa3-9752915cabf0",
+          "title": "GraphQL",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-7cddb7eb-f318-4c69-ab47-dd4cd8f7ec8a",
+          "title": "Next.js",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-111b0e4b-25a2-4e7b-8d5e-aafe51dbb1d5",
+          "title": "D3.js",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-c1068890-7f84-4b24-9a9d-681737c47b05",
+          "title": "TaiwindCSS",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-4631a308-988b-4b0d-9bc5-dd53844a0f04",
+          "title": "Webpack",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-0184f814-b695-4374-bba2-8a6bd3272127",
+          "title": "Storybook",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-f61ff5d7-6c3f-4b99-830c-27f63e49dbe6",
+          "title": "Jest",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-fff1a732-f59f-4085-a7bd-72320ba928fe",
+          "title": "Swift",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-43dfab38-8e89-47dd-b951-8cd6be85e7bd",
+          "title": "SwiftUI",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-18ceca1a-4f83-491c-b662-9f4b60f65ecc",
+          "title": "MVVM",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-71610d98-7bf5-4a02-ba12-edb118ab48ae",
+          "title": "IOS",
+          "category": "skill",
+          "color": "yellow"
+        }
+      ],
+      "links": [],
+      "date": [],
+      "experiences": [
+        {
+          "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+          "title": "Lexmind SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+          "title": "Micro Frontend",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+          "title": "Sauce",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+          "title": "Nope",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+          "title": "Memorize IOS App",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c": {
+      "id": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c",
+      "category": "skill",
+      "title": "HTML",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+          "title": "Lexmind SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+          "title": "Micro Frontend",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+          "title": "Sauce",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+          "title": "Nope",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-eb90f61b-70c7-4291-86f3-4501815eec4c": {
+      "id": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c",
+      "category": "skill",
+      "title": "CSS",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+          "title": "Lexmind SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+          "title": "Micro Frontend",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+          "title": "Sauce",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+          "title": "Nope",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-8ac110e2-096c-4cb5-aff9-89e6982b1838": {
+      "id": "skill-8ac110e2-096c-4cb5-aff9-89e6982b1838",
+      "category": "skill",
+      "title": "JavaScript",
+      "color": "yellow",
+      "experiences": []
+    },
+    "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4": {
+      "id": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4",
+      "category": "skill",
+      "title": "TypeScript",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+          "title": "Lexmind SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+          "title": "Sauce",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+          "title": "Nope",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7": {
+      "id": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7",
+      "category": "skill",
+      "title": "React",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+          "title": "Lexmind SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+          "title": "Micro Frontend",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+          "title": "Sauce",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+          "title": "Nope",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-c217bf1d-a9d1-4480-a357-9d33d843c2a2": {
+      "id": "skill-c217bf1d-a9d1-4480-a357-9d33d843c2a2",
+      "category": "skill",
+      "title": "Micro Frontend",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+          "title": "Micro Frontend",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-0a803ee6-c8b0-4c91-b1fd-6db9e962c125": {
+      "id": "skill-0a803ee6-c8b0-4c91-b1fd-6db9e962c125",
+      "category": "skill",
+      "title": "Vue",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+          "title": "Micro Frontend",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-fdd0542d-c209-428a-a0a1-a33b77fdee1f": {
+      "id": "skill-fdd0542d-c209-428a-a0a1-a33b77fdee1f",
+      "category": "skill",
+      "title": "Figma",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-6252060b-81dd-4266-b620-ea865183bf9d": {
+      "id": "skill-6252060b-81dd-4266-b620-ea865183bf9d",
+      "category": "skill",
+      "title": "Canva",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-3e9e0726-1fa1-4480-a2a2-a8b7fe8a4d01": {
+      "id": "skill-3e9e0726-1fa1-4480-a2a2-a8b7fe8a4d01",
+      "category": "skill",
+      "title": "Zustand",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-8dbed2e2-747d-43f4-8fa3-9752915cabf0": {
+      "id": "skill-8dbed2e2-747d-43f4-8fa3-9752915cabf0",
+      "category": "skill",
+      "title": "GraphQL",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-7cddb7eb-f318-4c69-ab47-dd4cd8f7ec8a": {
+      "id": "skill-7cddb7eb-f318-4c69-ab47-dd4cd8f7ec8a",
+      "category": "skill",
+      "title": "Next.js",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-111b0e4b-25a2-4e7b-8d5e-aafe51dbb1d5": {
+      "id": "skill-111b0e4b-25a2-4e7b-8d5e-aafe51dbb1d5",
+      "category": "skill",
+      "title": "D3.js",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-c1068890-7f84-4b24-9a9d-681737c47b05": {
+      "id": "skill-c1068890-7f84-4b24-9a9d-681737c47b05",
+      "category": "skill",
+      "title": "TaiwindCSS",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-4631a308-988b-4b0d-9bc5-dd53844a0f04": {
+      "id": "skill-4631a308-988b-4b0d-9bc5-dd53844a0f04",
+      "category": "skill",
+      "title": "Webpack",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+          "title": "Micro Frontend",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+          "title": "Nope",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-0184f814-b695-4374-bba2-8a6bd3272127": {
+      "id": "skill-0184f814-b695-4374-bba2-8a6bd3272127",
+      "category": "skill",
+      "title": "Storybook",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+          "title": "Nope",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-f61ff5d7-6c3f-4b99-830c-27f63e49dbe6": {
+      "id": "skill-f61ff5d7-6c3f-4b99-830c-27f63e49dbe6",
+      "category": "skill",
+      "title": "Jest",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+          "title": "Nope",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-fff1a732-f59f-4085-a7bd-72320ba928fe": {
+      "id": "skill-fff1a732-f59f-4085-a7bd-72320ba928fe",
+      "category": "skill",
+      "title": "Swift",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+          "title": "Memorize IOS App",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-43dfab38-8e89-47dd-b951-8cd6be85e7bd": {
+      "id": "skill-43dfab38-8e89-47dd-b951-8cd6be85e7bd",
+      "category": "skill",
+      "title": "SwiftUI",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+          "title": "Memorize IOS App",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-18ceca1a-4f83-491c-b662-9f4b60f65ecc": {
+      "id": "skill-18ceca1a-4f83-491c-b662-9f4b60f65ecc",
+      "category": "skill",
+      "title": "MVVM",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+          "title": "Memorize IOS App",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-71610d98-7bf5-4a02-ba12-edb118ab48ae": {
+      "id": "skill-71610d98-7bf5-4a02-ba12-edb118ab48ae",
+      "category": "skill",
+      "title": "IOS",
+      "color": "yellow",
+      "experiences": [
+        {
+          "id": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+          "title": "Memorize IOS App",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "role-77aff387-4251-43af-94fe-269ea6251112": {
+      "id": "role-77aff387-4251-43af-94fe-269ea6251112",
+      "category": "role",
+      "color": "gray",
+      "title": "AI Engineer",
+      "description": "Developed and maintained the backend of the YORG platform, including the user authentication system, the user data management system, and the user data analysis system.",
+      "skills": [
+        {
+          "id": "skill-c54bcc22-e9f8-4184-a7a0-b2592e12b83a",
+          "title": "LLM",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-9d8a9e4d-5fe8-4e3c-a1bc-a305954b7503",
+          "title": "Vector Search",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-dba930d8-60fb-4528-aeb3-083e079c0c0c",
+          "title": "GenAI",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-2f4ab8b4-3f23-47ac-bd56-2c42a268579a",
+          "title": "Fine-tuning",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-baeb9a66-6c65-4557-99ca-5c1497d5cf78",
+          "title": "Deep Learning",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-b0776e76-19e6-4650-8f5d-06053a2662f3",
+          "title": "Data Mining",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-8d1501f2-e306-45fd-a77b-791dfdd69de1",
+          "title": "Machine Learning",
+          "category": "skill",
+          "color": "gray"
+        }
+      ],
+      "links": [],
+      "date": [],
+      "experiences": [
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+          "title": "YORG SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-c54bcc22-e9f8-4184-a7a0-b2592e12b83a": {
+      "id": "skill-c54bcc22-e9f8-4184-a7a0-b2592e12b83a",
+      "category": "skill",
+      "title": "LLM",
+      "color": "gray",
+      "experiences": [
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+          "title": "YORG SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-9d8a9e4d-5fe8-4e3c-a1bc-a305954b7503": {
+      "id": "skill-9d8a9e4d-5fe8-4e3c-a1bc-a305954b7503",
+      "category": "skill",
+      "title": "Vector Search",
+      "color": "gray",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-dba930d8-60fb-4528-aeb3-083e079c0c0c": {
+      "id": "skill-dba930d8-60fb-4528-aeb3-083e079c0c0c",
+      "category": "skill",
+      "title": "GenAI",
+      "color": "gray",
+      "experiences": [
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-2f4ab8b4-3f23-47ac-bd56-2c42a268579a": {
+      "id": "skill-2f4ab8b4-3f23-47ac-bd56-2c42a268579a",
+      "category": "skill",
+      "title": "Fine-tuning",
+      "color": "gray",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-baeb9a66-6c65-4557-99ca-5c1497d5cf78": {
+      "id": "skill-baeb9a66-6c65-4557-99ca-5c1497d5cf78",
+      "category": "skill",
+      "title": "Deep Learning",
+      "color": "gray",
+      "experiences": [
+        {
+          "id": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+          "title": "Digit Recognition system",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-b0776e76-19e6-4650-8f5d-06053a2662f3": {
+      "id": "skill-b0776e76-19e6-4650-8f5d-06053a2662f3",
+      "category": "skill",
+      "title": "Data Mining",
+      "color": "gray",
+      "experiences": [
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-8d1501f2-e306-45fd-a77b-791dfdd69de1": {
+      "id": "skill-8d1501f2-e306-45fd-a77b-791dfdd69de1",
+      "category": "skill",
+      "title": "Machine Learning",
+      "color": "gray",
+      "experiences": [
+        {
+          "id": "teaching assistants-2e25fe58-8265-4725-8b71-92a75c5719de",
+          "title": "Data Mining TA",
+          "category": "teaching assistants",
+          "color": "black"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "role-213589c2-5495-486c-b32b-842ceb3b69fe": {
+      "id": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+      "category": "role",
+      "color": "blue",
+      "title": "Backend Engineer",
+      "description": "Developed and maintained the backend of the Gru.ai platform, including the user authentication system, the user data management system, and the user data analysis system.",
+      "skills": [
+        {
+          "id": "skill-f80aff4c-9153-47e8-97ee-9461dea45078",
+          "title": "Node.js",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a",
+          "title": "Python",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-d3505b45-49d6-4a17-9ec6-6f6525498b15",
+          "title": "Pytest",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-e78d6e4e-7520-468c-9f74-ecac86aff99d",
+          "title": "FastApi",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a",
+          "title": "SQL",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-2c894e11-f359-479c-9b84-edc7816c77ba",
+          "title": "SQLite",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-3a7fc2da-9a9d-4b19-bd0e-9004af73441d",
+          "title": "Firestore",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-a7d99e27-5f71-4a9f-bbf9-9657ff61afea",
+          "title": "Vitest",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-e4444a79-159a-40db-8574-f1de64f3fb18",
+          "title": "PostgreSQL",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-a1e79150-1b23-40ac-b2e8-6359aa95f1ef",
+          "title": "Azure",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-052fc523-a4ce-4e8d-a25a-80ff05db0e04",
+          "title": "AWS S3",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-ecdcc0fb-0367-42cf-bb6f-f325cc7974a9",
+          "title": "Stripe",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-38848d1f-66f0-4fcc-afaf-27dc00d7f0d0",
+          "title": "Prisma",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-6d38c5b3-4e60-4d03-a83f-ff9c91e85ece",
+          "title": "Algorithm",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-d2f9f961-fc08-4920-9d76-b0cc6cfa8f28",
+          "title": "Data Structure",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-8500048c-d66c-441d-9210-204a1b7d4e10",
+          "title": "Math",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-57c30652-908d-408c-9b71-ce8b7276e25a",
+          "title": "Jupyter Notebook",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-8ebdd395-41b5-4f36-90df-a7cb9d0e3674",
+          "title": "Google Cloud",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-0d7d9ab2-f92d-49d7-86f2-edef08e92793",
+          "title": "C++",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-53223d4f-08c7-4c10-897b-110d8bfb7fe9",
+          "title": "Computer Vision",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-d8735bd4-50d2-4789-8664-3c5011874f74",
+          "title": "PyTorch",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-ad8a7b8d-36f8-413b-bb9d-bec25b47c4fb",
+          "title": "Google Colab",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-e41289dc-013c-4b3f-96c5-f2700e7d5b6b",
+          "title": "CNN",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-673b5399-f1df-44bd-946d-e4ec74e3eb4c",
+          "title": "Docker",
+          "category": "skill",
+          "color": "green"
+        },
+        {
+          "id": "skill-a1e3b047-1e78-443f-8473-07ca6bb260a7",
+          "title": "Kubernetes",
+          "category": "skill",
+          "color": "green"
+        },
+        {
+          "id": "skill-a5e6ef5f-739b-4ea2-9243-2b4a66a1f35c",
+          "title": "CI/CD",
+          "category": "skill",
+          "color": "green"
+        },
+        {
+          "id": "skill-b9411802-fe62-4bc2-972e-de6dbf5c8948",
+          "title": "GitHub Actions",
+          "category": "skill",
+          "color": "green"
+        }
+      ],
+      "links": [],
+      "date": [],
+      "experiences": [
+        {
+          "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+          "title": "Lexmind SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+          "title": "YORG SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+          "title": "Sauce",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+          "title": "Digit Recognition system",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-f80aff4c-9153-47e8-97ee-9461dea45078": {
+      "id": "skill-f80aff4c-9153-47e8-97ee-9461dea45078",
+      "category": "skill",
+      "title": "Node.js",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+          "title": "Sauce",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+          "title": "Nope",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a": {
+      "id": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a",
+      "category": "skill",
+      "title": "Python",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+          "title": "Lexmind SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+          "title": "YORG SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "teaching assistants-430676c5-b99e-434c-a41f-8aaf10b1ab16",
+          "title": "Algorithm TA",
+          "category": "teaching assistants",
+          "color": "black"
+        },
+        {
+          "id": "teaching assistants-6f958483-b533-4232-9e3c-552557f57d4c",
+          "title": "Discrte Math TA",
+          "category": "teaching assistants",
+          "color": "black"
+        },
+        {
+          "id": "teaching assistants-2e25fe58-8265-4725-8b71-92a75c5719de",
+          "title": "Data Mining TA",
+          "category": "teaching assistants",
+          "color": "black"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-d3505b45-49d6-4a17-9ec6-6f6525498b15": {
+      "id": "skill-d3505b45-49d6-4a17-9ec6-6f6525498b15",
+      "category": "skill",
+      "title": "Pytest",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+          "title": "Lexmind SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+          "title": "YORG SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-e78d6e4e-7520-468c-9f74-ecac86aff99d": {
+      "id": "skill-e78d6e4e-7520-468c-9f74-ecac86aff99d",
+      "category": "skill",
+      "title": "FastApi",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+          "title": "Lexmind SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+          "title": "Aitist SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+          "title": "YORG SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a": {
+      "id": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a",
+      "category": "skill",
+      "title": "SQL",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+          "title": "Lexmind SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+          "title": "YORG SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-2c894e11-f359-479c-9b84-edc7816c77ba": {
+      "id": "skill-2c894e11-f359-479c-9b84-edc7816c77ba",
+      "category": "skill",
+      "title": "SQLite",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+          "title": "YORG SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-3a7fc2da-9a9d-4b19-bd0e-9004af73441d": {
+      "id": "skill-3a7fc2da-9a9d-4b19-bd0e-9004af73441d",
+      "category": "skill",
+      "title": "Firestore",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+          "title": "Sauce",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-a7d99e27-5f71-4a9f-bbf9-9657ff61afea": {
+      "id": "skill-a7d99e27-5f71-4a9f-bbf9-9657ff61afea",
+      "category": "skill",
+      "title": "Vitest",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-e4444a79-159a-40db-8574-f1de64f3fb18": {
+      "id": "skill-e4444a79-159a-40db-8574-f1de64f3fb18",
+      "category": "skill",
+      "title": "PostgreSQL",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+          "title": "Lexmind SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-a1e79150-1b23-40ac-b2e8-6359aa95f1ef": {
+      "id": "skill-a1e79150-1b23-40ac-b2e8-6359aa95f1ef",
+      "category": "skill",
+      "title": "Azure",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+          "title": "YORG SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-052fc523-a4ce-4e8d-a25a-80ff05db0e04": {
+      "id": "skill-052fc523-a4ce-4e8d-a25a-80ff05db0e04",
+      "category": "skill",
+      "title": "AWS S3",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-ecdcc0fb-0367-42cf-bb6f-f325cc7974a9": {
+      "id": "skill-ecdcc0fb-0367-42cf-bb6f-f325cc7974a9",
+      "category": "skill",
+      "title": "Stripe",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+          "title": "YORG SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-38848d1f-66f0-4fcc-afaf-27dc00d7f0d0": {
+      "id": "skill-38848d1f-66f0-4fcc-afaf-27dc00d7f0d0",
+      "category": "skill",
+      "title": "Prisma",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-6d38c5b3-4e60-4d03-a83f-ff9c91e85ece": {
+      "id": "skill-6d38c5b3-4e60-4d03-a83f-ff9c91e85ece",
+      "category": "skill",
+      "title": "Algorithm",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "teaching assistants-430676c5-b99e-434c-a41f-8aaf10b1ab16",
+          "title": "Algorithm TA",
+          "category": "teaching assistants",
+          "color": "black"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-d2f9f961-fc08-4920-9d76-b0cc6cfa8f28": {
+      "id": "skill-d2f9f961-fc08-4920-9d76-b0cc6cfa8f28",
+      "category": "skill",
+      "title": "Data Structure",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "teaching assistants-430676c5-b99e-434c-a41f-8aaf10b1ab16",
+          "title": "Algorithm TA",
+          "category": "teaching assistants",
+          "color": "black"
+        },
+        {
+          "id": "teaching assistants-6f958483-b533-4232-9e3c-552557f57d4c",
+          "title": "Discrte Math TA",
+          "category": "teaching assistants",
+          "color": "black"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-8500048c-d66c-441d-9210-204a1b7d4e10": {
+      "id": "skill-8500048c-d66c-441d-9210-204a1b7d4e10",
+      "category": "skill",
+      "title": "Math",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "teaching assistants-6f958483-b533-4232-9e3c-552557f57d4c",
+          "title": "Discrte Math TA",
+          "category": "teaching assistants",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-57c30652-908d-408c-9b71-ce8b7276e25a": {
+      "id": "skill-57c30652-908d-408c-9b71-ce8b7276e25a",
+      "category": "skill",
+      "title": "Jupyter Notebook",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "teaching assistants-2e25fe58-8265-4725-8b71-92a75c5719de",
+          "title": "Data Mining TA",
+          "category": "teaching assistants",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-8ebdd395-41b5-4f36-90df-a7cb9d0e3674": {
+      "id": "skill-8ebdd395-41b5-4f36-90df-a7cb9d0e3674",
+      "category": "skill",
+      "title": "Google Cloud",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+          "title": "Sauce",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-0d7d9ab2-f92d-49d7-86f2-edef08e92793": {
+      "id": "skill-0d7d9ab2-f92d-49d7-86f2-edef08e92793",
+      "category": "skill",
+      "title": "C++",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+          "title": "Digit Recognition system",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-53223d4f-08c7-4c10-897b-110d8bfb7fe9": {
+      "id": "skill-53223d4f-08c7-4c10-897b-110d8bfb7fe9",
+      "category": "skill",
+      "title": "Computer Vision",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+          "title": "Digit Recognition system",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    },
+    "skill-d8735bd4-50d2-4789-8664-3c5011874f74": {
+      "id": "skill-d8735bd4-50d2-4789-8664-3c5011874f74",
+      "category": "skill",
+      "title": "PyTorch",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+          "title": "Digit Recognition system",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-ad8a7b8d-36f8-413b-bb9d-bec25b47c4fb": {
+      "id": "skill-ad8a7b8d-36f8-413b-bb9d-bec25b47c4fb",
+      "category": "skill",
+      "title": "Google Colab",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+          "title": "Digit Recognition system",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-e41289dc-013c-4b3f-96c5-f2700e7d5b6b": {
+      "id": "skill-e41289dc-013c-4b3f-96c5-f2700e7d5b6b",
+      "category": "skill",
+      "title": "CNN",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+          "title": "Digit Recognition system",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-673b5399-f1df-44bd-946d-e4ec74e3eb4c": {
+      "id": "skill-673b5399-f1df-44bd-946d-e4ec74e3eb4c",
+      "category": "skill",
+      "title": "Docker",
+      "color": "green",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-a1e3b047-1e78-443f-8473-07ca6bb260a7": {
+      "id": "skill-a1e3b047-1e78-443f-8473-07ca6bb260a7",
+      "category": "skill",
+      "title": "Kubernetes",
+      "color": "green",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        }
+      ]
+    },
+    "skill-a5e6ef5f-739b-4ea2-9243-2b4a66a1f35c": {
+      "id": "skill-a5e6ef5f-739b-4ea2-9243-2b4a66a1f35c",
+      "category": "skill",
+      "title": "CI/CD",
+      "color": "green",
+      "experiences": [
+        {
+          "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+          "title": "Gru.ai SWE Intern",
+          "category": "internship",
+          "color": "red"
+        },
+        {
+          "id": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+          "title": "Micro Frontend",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+          "title": "Sauce",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "skill-b9411802-fe62-4bc2-972e-de6dbf5c8948": {
+      "id": "skill-b9411802-fe62-4bc2-972e-de6dbf5c8948",
+      "category": "skill",
+      "title": "GitHub Actions",
+      "color": "green",
+      "experiences": [
+        {
+          "id": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+          "title": "Micro Frontend",
+          "category": "project",
+          "color": "green"
+        },
+        {
+          "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+          "title": "Sauce",
+          "category": "project",
+          "color": "green"
+        }
+      ]
+    },
+    "internship-ac319887-1178-47fa-ab91-22ba62a5bc26": {
+      "id": "internship-ac319887-1178-47fa-ab91-22ba62a5bc26",
+      "category": "internship",
+      "color": "red",
+      "title": "Lexmind SWE Intern",
+      "description": "Spearheaded the optimization of data serialization and deserialization processes, drove robust unit and integration testing strategies, and crafted specialized React components, streamlining development workflows and enhancing system reliability and efficiency.",
+      "skills": [
+        {
+          "id": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c",
+          "title": "CSS",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c",
+          "title": "HTML",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4",
+          "title": "TypeScript",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7",
+          "title": "React",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-e4444a79-159a-40db-8574-f1de64f3fb18",
+          "title": "PostgreSQL",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a",
+          "title": "SQL",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a",
+          "title": "Python",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-e78d6e4e-7520-468c-9f74-ecac86aff99d",
+          "title": "FastApi",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-d3505b45-49d6-4a17-9ec6-6f6525498b15",
+          "title": "Pytest",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "role-02f01365-ffeb-4163-9111-87831596c44b",
+          "title": "Frontend Engineer",
+          "category": "role",
+          "color": "yellow"
+        },
+        {
+          "id": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+          "title": "Backend Engineer",
+          "category": "role",
+          "color": "blue"
+        }
+      ],
+      "links": [],
+      "date": [
+        "2023-12-15"
+      ]
+    },
+    "internship-7456beda-16cd-4813-9034-e7d4c1915a4e": {
+      "id": "internship-7456beda-16cd-4813-9034-e7d4c1915a4e",
+      "category": "internship",
+      "color": "red",
+      "title": "Aitist SWE Intern",
+      "description": "Tech-savvy innovator with a proven track record in propelling startup success from prototype to profitability, adept in React development for sophisticated applications, UI/UX design optimization, and enhancing codebase efficiency through centralized logic and customized API implementations, consistently driving enhanced performance and user satisfaction.",
+      "skills": [
+        {
+          "id": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c",
+          "title": "CSS",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c",
+          "title": "HTML",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7",
+          "title": "React",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4",
+          "title": "TypeScript",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-fdd0542d-c209-428a-a0a1-a33b77fdee1f",
+          "title": "Figma",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-6252060b-81dd-4266-b620-ea865183bf9d",
+          "title": "Canva",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-3e9e0726-1fa1-4480-a2a2-a8b7fe8a4d01",
+          "title": "Zustand",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-8dbed2e2-747d-43f4-8fa3-9752915cabf0",
+          "title": "GraphQL",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a",
+          "title": "Python",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-e78d6e4e-7520-468c-9f74-ecac86aff99d",
+          "title": "FastApi",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-c54bcc22-e9f8-4184-a7a0-b2592e12b83a",
+          "title": "LLM",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-dba930d8-60fb-4528-aeb3-083e079c0c0c",
+          "title": "GenAI",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "role-02f01365-ffeb-4163-9111-87831596c44b",
+          "title": "Frontend Engineer",
+          "category": "role",
+          "color": "yellow"
+        },
+        {
+          "id": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+          "title": "Backend Engineer",
+          "category": "role",
+          "color": "blue"
+        },
+        {
+          "id": "role-77aff387-4251-43af-94fe-269ea6251112",
+          "title": "AI Engineer",
+          "category": "role",
+          "color": "gray"
+        }
+      ],
+      "links": [
+        {
+          "title": "Aitist",
+          "url": "https://www.aitist.ai/"
+        }
+      ],
+      "date": [
+        "2023-09-15"
+      ]
+    },
+    "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54": {
+      "id": "internship-dead8a55-e2bf-4d61-9f22-fbf67d1aff54",
+      "category": "internship",
+      "color": "red",
+      "title": "YORG SWE Intern",
+      "description": "Developed and maintained the backend of the YORG platform, including the user authentication system, the user data management system, and the user data analysis system.",
+      "skills": [
+        {
+          "id": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a",
+          "title": "Python",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-e78d6e4e-7520-468c-9f74-ecac86aff99d",
+          "title": "FastApi",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-2c894e11-f359-479c-9b84-edc7816c77ba",
+          "title": "SQLite",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a",
+          "title": "SQL",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-c54bcc22-e9f8-4184-a7a0-b2592e12b83a",
+          "title": "LLM",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-d3505b45-49d6-4a17-9ec6-6f6525498b15",
+          "title": "Pytest",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-a1e79150-1b23-40ac-b2e8-6359aa95f1ef",
+          "title": "Azure",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-ecdcc0fb-0367-42cf-bb6f-f325cc7974a9",
+          "title": "Stripe",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+          "title": "Backend Engineer",
+          "category": "role",
+          "color": "blue"
+        },
+        {
+          "id": "role-77aff387-4251-43af-94fe-269ea6251112",
+          "title": "AI Engineer",
+          "category": "role",
+          "color": "gray"
+        }
+      ],
+      "links": [
+        {
+          "title": "YORG",
+          "url": "https://atlasai.dev/"
+        }
+      ],
+      "date": [
+        "2024-04-15"
+      ]
+    },
+    "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945": {
+      "id": "internship-fe15cdb8-0b9d-47ec-bfc6-d10c5fbec945",
+      "category": "internship",
+      "color": "red",
+      "title": "Gru.ai SWE Intern",
+      "description": "Developed and maintained the backend of the Gru.ai platform, including the user authentication system, the user data management system, and the user data analysis system.",
+      "skills": [
+        {
+          "id": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c",
+          "title": "CSS",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c",
+          "title": "HTML",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-f80aff4c-9153-47e8-97ee-9461dea45078",
+          "title": "Node.js",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-a7d99e27-5f71-4a9f-bbf9-9657ff61afea",
+          "title": "Vitest",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-673b5399-f1df-44bd-946d-e4ec74e3eb4c",
+          "title": "Docker",
+          "category": "skill",
+          "color": "green"
+        },
+        {
+          "id": "skill-a1e3b047-1e78-443f-8473-07ca6bb260a7",
+          "title": "Kubernetes",
+          "category": "skill",
+          "color": "green"
+        },
+        {
+          "id": "skill-c54bcc22-e9f8-4184-a7a0-b2592e12b83a",
+          "title": "LLM",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-2f4ab8b4-3f23-47ac-bd56-2c42a268579a",
+          "title": "Fine-tuning",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-9d8a9e4d-5fe8-4e3c-a1bc-a305954b7503",
+          "title": "Vector Search",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-7cddb7eb-f318-4c69-ab47-dd4cd8f7ec8a",
+          "title": "Next.js",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-111b0e4b-25a2-4e7b-8d5e-aafe51dbb1d5",
+          "title": "D3.js",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7",
+          "title": "React",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4",
+          "title": "TypeScript",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-052fc523-a4ce-4e8d-a25a-80ff05db0e04",
+          "title": "AWS S3",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-38848d1f-66f0-4fcc-afaf-27dc00d7f0d0",
+          "title": "Prisma",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-e4444a79-159a-40db-8574-f1de64f3fb18",
+          "title": "PostgreSQL",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a",
+          "title": "SQL",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-a5e6ef5f-739b-4ea2-9243-2b4a66a1f35c",
+          "title": "CI/CD",
+          "category": "skill",
+          "color": "green"
+        },
+        {
+          "id": "skill-c1068890-7f84-4b24-9a9d-681737c47b05",
+          "title": "TaiwindCSS",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-4631a308-988b-4b0d-9bc5-dd53844a0f04",
+          "title": "Webpack",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "role-02f01365-ffeb-4163-9111-87831596c44b",
+          "title": "Frontend Engineer",
+          "category": "role",
+          "color": "yellow"
+        },
+        {
+          "id": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+          "title": "Backend Engineer",
+          "category": "role",
+          "color": "blue"
+        },
+        {
+          "id": "role-77aff387-4251-43af-94fe-269ea6251112",
+          "title": "AI Engineer",
+          "category": "role",
+          "color": "gray"
+        }
+      ],
+      "links": [
+        {
+          "title": "Gru.ai",
+          "url": "https://www.gru.ai/"
+        }
+      ],
+      "date": [
+        "2024-03-15"
+      ]
+    },
+    "teaching assistants-430676c5-b99e-434c-a41f-8aaf10b1ab16": {
+      "id": "teaching assistants-430676c5-b99e-434c-a41f-8aaf10b1ab16",
+      "category": "teaching assistants",
+      "color": "black",
+      "title": "Algorithm TA",
+      "description": "Assisted students with algorithm assignments, graded assignments, and held office hours.",
+      "skills": [
+        {
+          "id": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a",
+          "title": "Python",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-6d38c5b3-4e60-4d03-a83f-ff9c91e85ece",
+          "title": "Algorithm",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-d2f9f961-fc08-4920-9d76-b0cc6cfa8f28",
+          "title": "Data Structure",
+          "category": "skill",
+          "color": "blue"
+        }
+      ],
+      "links": [],
+      "date": [
+        "2023-09-15",
+        "2024-04-15"
+      ]
+    },
+    "teaching assistants-6f958483-b533-4232-9e3c-552557f57d4c": {
+      "id": "teaching assistants-6f958483-b533-4232-9e3c-552557f57d4c",
+      "category": "teaching assistants",
+      "color": "black",
+      "title": "Discrte Math TA",
+      "description": "Assisted students with discrete math assignments, graded assignments, and held office hours.",
+      "skills": [
+        {
+          "id": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a",
+          "title": "Python",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-8500048c-d66c-441d-9210-204a1b7d4e10",
+          "title": "Math",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-d2f9f961-fc08-4920-9d76-b0cc6cfa8f28",
+          "title": "Data Structure",
+          "category": "skill",
+          "color": "blue"
+        }
+      ],
+      "links": [],
+      "date": [
+        "2023-09-15",
+        "2024-04-15"
+      ]
+    },
+    "teaching assistants-2e25fe58-8265-4725-8b71-92a75c5719de": {
+      "id": "teaching assistants-2e25fe58-8265-4725-8b71-92a75c5719de",
+      "category": "teaching assistants",
+      "color": "black",
+      "title": "Data Mining TA",
+      "description": "Assisted students with data mining assignments, graded assignments, and held office hours.",
+      "skills": [
+        {
+          "id": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a",
+          "title": "Python",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-57c30652-908d-408c-9b71-ce8b7276e25a",
+          "title": "Jupyter Notebook",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-8d1501f2-e306-45fd-a77b-791dfdd69de1",
+          "title": "Machine Learning",
+          "category": "skill",
+          "color": "gray"
+        }
+      ],
+      "links": [],
+      "date": [
+        "2023-09-15",
+        "2024-04-15"
+      ]
+    },
+    "project-ad04b942-8044-4e47-a68a-6768ecb906cf": {
+      "id": "project-ad04b942-8044-4e47-a68a-6768ecb906cf",
+      "category": "project",
+      "color": "green",
+      "title": "Micro Frontend",
+      "description": "Architected a scalable microfrontend application enabling dozens of teams to develop and deploy independently.",
+      "skills": [
+        {
+          "id": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7",
+          "title": "React",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-0a803ee6-c8b0-4c91-b1fd-6db9e962c125",
+          "title": "Vue",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-4631a308-988b-4b0d-9bc5-dd53844a0f04",
+          "title": "Webpack",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-a5e6ef5f-739b-4ea2-9243-2b4a66a1f35c",
+          "title": "CI/CD",
+          "category": "skill",
+          "color": "green"
+        },
+        {
+          "id": "skill-b9411802-fe62-4bc2-972e-de6dbf5c8948",
+          "title": "GitHub Actions",
+          "category": "skill",
+          "color": "green"
+        },
+        {
+          "id": "skill-c217bf1d-a9d1-4480-a357-9d33d843c2a2",
+          "title": "Micro Frontend",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "role-02f01365-ffeb-4163-9111-87831596c44b",
+          "title": "Frontend Engineer",
+          "category": "role",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c",
+          "title": "CSS",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c",
+          "title": "HTML",
+          "category": "skill",
+          "color": "yellow"
+        }
+      ],
+      "links": [
+        {
+          "title": "Source Code",
+          "url": "https://github.com/Hui-Hwoo/Micro-Frontend"
+        }
+      ],
+      "date": []
+    },
+    "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec": {
+      "id": "project-d41ac549-1e20-47d8-9937-3e4e1ef6c0ec",
+      "category": "project",
+      "color": "green",
+      "title": "Sauce",
+      "description": "Created a Sauce-Sharing Web Application utilizing Node, Express, Firestore, and Google Cloud, featuring mobile-responsive design, REST API integration for authentication and data management, and streamlined CI/CD pipeline via GitHub Actions, significantly enhancing deployment efficiency and user engagement.",
+      "skills": [
+        {
+          "id": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7",
+          "title": "React",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-f80aff4c-9153-47e8-97ee-9461dea45078",
+          "title": "Node.js",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-3a7fc2da-9a9d-4b19-bd0e-9004af73441d",
+          "title": "Firestore",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-8ebdd395-41b5-4f36-90df-a7cb9d0e3674",
+          "title": "Google Cloud",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-a5e6ef5f-739b-4ea2-9243-2b4a66a1f35c",
+          "title": "CI/CD",
+          "category": "skill",
+          "color": "green"
+        },
+        {
+          "id": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c",
+          "title": "CSS",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c",
+          "title": "HTML",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-b9411802-fe62-4bc2-972e-de6dbf5c8948",
+          "title": "GitHub Actions",
+          "category": "skill",
+          "color": "green"
+        },
+        {
+          "id": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4",
+          "title": "TypeScript",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "role-02f01365-ffeb-4163-9111-87831596c44b",
+          "title": "Frontend Engineer",
+          "category": "role",
+          "color": "yellow"
+        },
+        {
+          "id": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+          "title": "Backend Engineer",
+          "category": "role",
+          "color": "blue"
+        }
+      ],
+      "links": [
+        {
+          "title": "Source Code",
+          "url": "https://github.com/Hui-Hwoo/Sauce"
+        }
+      ],
+      "date": []
+    },
+    "project-15d33965-11d5-493b-9ff6-34b3059ce884": {
+      "id": "project-15d33965-11d5-493b-9ff6-34b3059ce884",
+      "category": "project",
+      "color": "green",
+      "title": "Nope",
+      "description": "Delivered a robust Notion-style Component Library utilizing TypeScript, React, Jest, and Storybook, featuring seamless component interaction, rigorous testing with Jest, and comprehensive documentation through Storybook deployment.",
+      "skills": [
+        {
+          "id": "skill-fc14b3d3-71e6-4613-9275-bde5be960fc7",
+          "title": "React",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-eb90f61b-70c7-4291-86f3-4501815eec4c",
+          "title": "CSS",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-0d91c519-ab41-424e-a2e6-d12d168b4e7c",
+          "title": "HTML",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-f80aff4c-9153-47e8-97ee-9461dea45078",
+          "title": "Node.js",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-659925f6-9423-4d06-b0d4-d3737a8b32a4",
+          "title": "TypeScript",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-0184f814-b695-4374-bba2-8a6bd3272127",
+          "title": "Storybook",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-f61ff5d7-6c3f-4b99-830c-27f63e49dbe6",
+          "title": "Jest",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-4631a308-988b-4b0d-9bc5-dd53844a0f04",
+          "title": "Webpack",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "role-02f01365-ffeb-4163-9111-87831596c44b",
+          "title": "Frontend Engineer",
+          "category": "role",
+          "color": "yellow"
+        }
+      ],
+      "links": [
+        {
+          "title": "Source Code",
+          "url": "https://github.com/Hui-Hwoo/Nope"
+        }
+      ],
+      "date": []
+    },
+    "project-9f9f9bff-de46-499e-a7b6-1fce88891d45": {
+      "id": "project-9f9f9bff-de46-499e-a7b6-1fce88891d45",
+      "category": "project",
+      "color": "green",
+      "title": "Digit Recognition system",
+      "description": "Led the development and deployment of an Object Recognition system using Deep Networks, achieving a remarkable 99% accuracy rate in handwritten digit detection and recognition leveraging the MNIST dataset, fine-tuning a custom CNN with PyTorch and Torchvision, seamlessly adapting for Greek Letters recognition through transfer learning, and optimizing workflow efficiency with Google Colab's GPU infrastructure.",
+      "skills": [
+        {
+          "id": "skill-0d7d9ab2-f92d-49d7-86f2-edef08e92793",
+          "title": "C++",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-53223d4f-08c7-4c10-897b-110d8bfb7fe9",
+          "title": "Computer Vision",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-baeb9a66-6c65-4557-99ca-5c1497d5cf78",
+          "title": "Deep Learning",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-d8735bd4-50d2-4789-8664-3c5011874f74",
+          "title": "PyTorch",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-ad8a7b8d-36f8-413b-bb9d-bec25b47c4fb",
+          "title": "Google Colab",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-e41289dc-013c-4b3f-96c5-f2700e7d5b6b",
+          "title": "CNN",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+          "title": "Backend Engineer",
+          "category": "role",
+          "color": "blue"
+        }
+      ],
+      "links": [
+        {
+          "title": "Report",
+          "url": "https://hui-hwoo.notion.site/Report-5-Recognition-using-Deep-Networks-815475a309bd42fca45d639694efac15"
+        }
+      ],
+      "date": []
+    },
+    "project-53db66a5-60e8-4d73-8929-a662ea065773": {
+      "id": "project-53db66a5-60e8-4d73-8929-a662ea065773",
+      "category": "project",
+      "color": "green",
+      "title": "Memorize IOS App",
+      "description": "Developed a sophisticated Memorize iOS App utilizing SwiftUI, MVVM architecture, and Combine framework, featuring dynamic card creation, and user-friendly game interface, significantly enhancing user engagement and retention.",
+      "skills": [
+        {
+          "id": "skill-fff1a732-f59f-4085-a7bd-72320ba928fe",
+          "title": "Swift",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-43dfab38-8e89-47dd-b951-8cd6be85e7bd",
+          "title": "SwiftUI",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-18ceca1a-4f83-491c-b662-9f4b60f65ecc",
+          "title": "MVVM",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "skill-71610d98-7bf5-4a02-ba12-edb118ab48ae",
+          "title": "IOS",
+          "category": "skill",
+          "color": "yellow"
+        },
+        {
+          "id": "role-02f01365-ffeb-4163-9111-87831596c44b",
+          "title": "Frontend Engineer",
+          "category": "role",
+          "color": "yellow"
+        }
+      ],
+      "links": [
+        {
+          "title": "Source Code",
+          "url": "hhttps://github.com/Hui-Hwoo/CS193p-Developing-Apps-for-iOS"
+        }
+      ],
+      "date": []
+    },
+    "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335": {
+      "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+      "category": "educations",
+      "color": "black",
+      "title": "Northeastern University",
+      "description": "Master of Science in Computer Science",
+      "skills": [
+        {
+          "id": "skill-0b1f16b7-913f-458c-8fce-d8b925b5973a",
+          "title": "Python",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-0d7d9ab2-f92d-49d7-86f2-edef08e92793",
+          "title": "C++",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-d2f9f961-fc08-4920-9d76-b0cc6cfa8f28",
+          "title": "Data Structure",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-6d38c5b3-4e60-4d03-a83f-ff9c91e85ece",
+          "title": "Algorithm",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-8d1501f2-e306-45fd-a77b-791dfdd69de1",
+          "title": "Machine Learning",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-baeb9a66-6c65-4557-99ca-5c1497d5cf78",
+          "title": "Deep Learning",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-53223d4f-08c7-4c10-897b-110d8bfb7fe9",
+          "title": "Computer Vision",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-b0776e76-19e6-4650-8f5d-06053a2662f3",
+          "title": "Data Mining",
+          "category": "skill",
+          "color": "gray"
+        },
+        {
+          "id": "skill-119355b2-729e-4d8e-9ac5-1b855e157917",
+          "title": "Database",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-59d39e96-1823-45e3-b0a8-4257ea1cc85a",
+          "title": "SQL",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "skill-e4444a79-159a-40db-8574-f1de64f3fb18",
+          "title": "PostgreSQL",
+          "category": "skill",
+          "color": "blue"
+        },
+        {
+          "id": "role-02f01365-ffeb-4163-9111-87831596c44b",
+          "title": "Frontend Engineer",
+          "category": "role",
+          "color": "yellow"
+        },
+        {
+          "id": "role-213589c2-5495-486c-b32b-842ceb3b69fe",
+          "title": "Backend Engineer",
+          "category": "role",
+          "color": "blue"
+        },
+        {
+          "id": "role-77aff387-4251-43af-94fe-269ea6251112",
+          "title": "AI Engineer",
+          "category": "role",
+          "color": "gray"
+        }
+      ],
+      "links": [],
+      "date": [
+        "2021-01-01",
+        "2021-01-02"
+      ]
+    },
+    "skill-119355b2-729e-4d8e-9ac5-1b855e157917": {
+      "id": "skill-119355b2-729e-4d8e-9ac5-1b855e157917",
+      "category": "skill",
+      "title": "Database",
+      "color": "blue",
+      "experiences": [
+        {
+          "id": "educations-00bf2f18-f9d2-4d99-bd3e-da96c67e6335",
+          "title": "Northeastern University",
+          "category": "educations",
+          "color": "black"
+        }
+      ]
+    }
+  }
+}

@@ -51,6 +51,25 @@ body {
     --date-color: #212121;
     --date-bg: #eeeeee;
     --date-border: rgba(54, 54, 54, 0.2);
+
+    /* graph */
+
+    /* role / skills */
+    --graph-gray-dark: #75757545;
+    --graph-gray-light: rgba(128, 128, 128, 0.1);
+    --graph-yellow-dark: #ffd54ff0;
+    --graph-yellow-light: rgba(255, 249, 196, 0.729);
+    --graph-blue-dark: rgba(106, 185, 255, 0.478);
+    --graph-blue-light: rgba(225, 245, 254, 0.851);
+    /* experience */
+    --graph-green-dark: #4caf50e3;
+    --graph-green-light: #aed58161;
+    --graph-red-dark: #f44336eb;
+    --graph-red-light: #ffcdd2c9;
+    --graph-black-dark: rgba(52, 52, 51, 0.828);
+    --graph-black-light: #00000045;
+    --graph-purple-dark: #7986cbe3;
+    --graph-purple-light: #9fa8daab;
 }
 
 body.dark {
