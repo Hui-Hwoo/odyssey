@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/odyssey/static/css/main.097a7824.css",
-    "main.js": "/odyssey/static/js/main.9b98ec75.js",
+    "main.js": "/odyssey/static/js/main.38e82af5.js",
     "static/media/selfie.png": "/odyssey/static/media/selfie.241ec4a83ad4d45e3691.png",
     "static/media/logo.png": "/odyssey/static/media/logo.c12eef390432ff85386a.png",
     "static/media/avatar.png": "/odyssey/static/media/avatar.e516e3e84522f123c00f.png",
@@ -14,10 +14,10 @@
     "static/media/youtube.svg": "/odyssey/static/media/youtube.fcaba10899a010ebabe5bd2aca31815f.svg",
     "static/media/instagram.svg": "/odyssey/static/media/instagram.bc602d0d02b26bff7e60e4f0d1a1130e.svg",
     "main.097a7824.css.map": "/odyssey/static/css/main.097a7824.css.map",
-    "main.9b98ec75.js.map": "/odyssey/static/js/main.9b98ec75.js.map"
+    "main.38e82af5.js.map": "/odyssey/static/js/main.38e82af5.js.map"
   },
   "entrypoints": [
     "static/css/main.097a7824.css",
-    "static/js/main.9b98ec75.js"
+    "static/js/main.38e82af5.js"
   ]
 }
