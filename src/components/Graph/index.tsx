@@ -160,10 +160,19 @@ export const SkillGraph = () => {
                 })
                 .attr("fill", (d) => {
                     if (d.id.startsWith("role")) {
-                        return `var(--graph-gray-light)`;
+                        return `var(--graph-${d.ops.color}-light)`;
                     } else if (d.id.startsWith("internship")) {
+                        if (
+                            d.ops.title.startsWith("L") ||
+                            d.ops.title.startsWith("Y")
+                        ) {
+                            return `var(--graph-${d.ops.color}-light)`;
+                        }
                         return `var(--graph-${d.ops.color}-dark)`;
                     } else {
+                        if (d.x > -200 && d.x < 200 && d.y > -70 && d.y < 70) {
+                            return `var(--graph-${d.ops.color}-light)`;
+                        }
                         return `var(--graph-black-dark)`;
                     }
                 });
