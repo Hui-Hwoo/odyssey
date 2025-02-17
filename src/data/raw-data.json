@@ -21,7 +21,7 @@
         "data": [
             {
                 "title": "Frontend Engineer",
-                "description": "Developed and maintained the backend of the Gru.ai platform, including the user authentication system, the user data management system, and the user data analysis system.",
+                "description": "Pixel speaks for me.",
                 "links": [],
                 "skills": [
                     "HTML",
@@ -50,7 +50,7 @@
             },
             {
                 "title": "AI Engineer",
-                "description": "Developed and maintained the backend of the YORG platform, including the user authentication system, the user data management system, and the user data analysis system.",
+                "description": "Help AI to learn, from history :) ",
                 "links": [],
                 "skills": [
                     "LLM",
@@ -65,7 +65,7 @@
             },
             {
                 "title": "Backend Engineer",
-                "description": "Developed and maintained the backend of the Gru.ai platform, including the user authentication system, the user data management system, and the user data analysis system.",
+                "description": "Solve problems, use code.",
                 "links": [],
                 "skills": [
                     "Node.js",
