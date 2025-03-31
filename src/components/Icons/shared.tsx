@@ -13,7 +13,7 @@ import {
 import "./icons.css";
 
 export const getIndexIcon = (index: number) => {
-    if (index > 10) {
+    if (index >= 10) {
         const digitArray = index.toString().split("").map(Number);
         return (
             <div className="digit-container">

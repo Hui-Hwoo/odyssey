@@ -243,8 +243,38 @@
         "category": "Project",
         "data": [
             {
+                "title": "Starry Ocean",
+                "description": "Built a Three.js project featuring a mesmerizing starry sky and dynamic ocean simulation.",
+                "links": [
+                    {
+                        "title": "Source Code",
+                        "url": "https://github.com/Hui-Hwoo/Stars"
+                    }
+                ],
+                "skills": ["Three.js", "Frontend Engineer", "CSS", "HTML"],
+                "date": []
+            },
+            {
+                "title": "D3 Graph",
+                "description": "Explore D3.js Force Graph",
+                "links": [
+                    {
+                        "title": "Source Code",
+                        "url": "https://github.com/Hui-Hwoo/D3-Exploration"
+                    }
+                ],
+                "skills": [
+                    "React",
+                    "D3.js",
+                    "Frontend Engineer",
+                    "CSS",
+                    "HTML"
+                ],
+                "date": []
+            },
+            {
                 "title": "Micro Frontend",
-                "description": "Architected a scalable microfrontend application enabling dozens of teams to develop and deploy independently.",
+                "description": "Architected a scalable Micro-Frontend application enabling dozens of teams to develop and deploy independently.",
                 "links": [
                     {
                         "title": "Source Code",

@@ -8,12 +8,12 @@ export const Link = ({
     url: String;
     className: String;
 }) => {
-    const isGiithub = url.includes("github");
+    const isGithub = url.includes("github");
     return (
         <div className={`link_icon_container ${className}`}>
             <a href={url.toString()}>
                 <img
-                    src={isGiithub ? Github : LinkIcon}
+                    src={isGithub ? Github : LinkIcon}
                     alt="link"
                     className="link_icon"
                     width={20}

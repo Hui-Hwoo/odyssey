@@ -110,6 +110,38 @@ export const timelineIncidents = [
     },
     {
         tag: [
+            { tagContent: "Frontend", tagColor: ColorType.Yellow },
+            { tagContent: "Project", tagColor: ColorType.Gray },
+        ],
+        date: new Date("2025-03-15"),
+        title: "D3 Graph",
+        content: "Explore D3.js Force Graph",
+        link: "https://github.com/Hui-Hwoo/D3-Exploration",
+    },
+    {
+        tag: [
+            { tagContent: "Frontend", tagColor: ColorType.Yellow },
+            { tagContent: "Project", tagColor: ColorType.Gray },
+        ],
+        date: new Date("2025-03-10"),
+        title: "Starry Ocean",
+        content:
+            "Built a Three.js project featuring a mesmerizing starry sky and dynamic ocean simulation.",
+        link: "https://github.com/Hui-Hwoo/Stars",
+    },
+    {
+        tag: [
+            { tagContent: "Frontend", tagColor: ColorType.Yellow },
+            { tagContent: "Project", tagColor: ColorType.Gray },
+        ],
+        date: new Date("2025-02-10"),
+        title: "MicroFrontend",
+        content:
+            "Architected a scalable Micro-Frontend application enabling dozens of teams to develop and deploy independently.",
+        link: "https://github.com/Hui-Hwoo/Micro-Frontend",
+    },
+    {
+        tag: [
             { tagContent: "Full-stack", tagColor: ColorType.Yellow },
             { tagContent: "Project", tagColor: ColorType.Gray },
         ],
