@@ -1,7 +1,7 @@
 {
     "name": "odyssey",
     "version": "0.1.0",
-    "homepage": "https://hui-hwoo.github.io/odyssey/",
+    "homepage": "https://hwoo.me",
     "private": true,
     "type": "module",
     "scripts": {
